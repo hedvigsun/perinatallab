@@ -1,0 +1,25 @@
+# Authors
+
+Hedvig Sundelin:
+  name        : "Hedvig Sundelin"
+  role        : "Associate Researcher"
+  email       : "hedvig.sundelin@gu.se"
+  bio         : "Wasting my time ."
+  avatar      : "image.png"
+  linkedin    : "hedvig-sundelin-20623438"
+  github      : "hedvigsun"
+
+Pol Sole:
+  name        : "Pol Solé Navais"
+  email       : "pol.sole.navais@gu.se"
+  linkedin    : "polsolenavais"
+  bio         : "I ordered what?"
+  avatar      : "polsole.jpg"
+  orcid       : "https://orcid.org/0000-0002-3326-266X"
+  github      : "psnavais"
+
+Karin Ytterberg:
+  name        : "Karin Ytterberg"
+  linkedin    : "karin-ytterberg-4221701a1"
+  avatar      : "kariny.jpg"
+  github      : "ykarin97"
