@@ -1,0 +1,41 @@
+<div id="respond" class="comment-respond">
+    <h3 id="reply-title" class="comment-reply-title">
+        Skriv en kommentar 
+        <small>
+            <a rel="nofollow" id="cancel-comment-reply-link" href="/2023/11/96111/#respond" style="display:none;">Avbryt svar</a>
+        </small>
+    </h3>
+    <form action="https://akademiliv.se/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+        <p class="comment-notes">
+            <span id="email-notes">Din e-postadress kommer inte publiceras.</span>
+            Obligatoriska fält är märkta <span class="required">*</span>
+        </p>
+        <p class="comment-form-comment">
+            <label for="comment">Kommentar</label>
+            <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea>
+        </p>
+        <input name="wpml_language_code" type="hidden" value="sv"/>
+        <p class="comment-form-author">
+            <label for="author">
+                Namn <span class="required">*</span>
+            </label>
+            <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required'/>
+        </p>
+        <p class="comment-form-email">
+            <label for="email">
+                E-postadress <span class="required">*</span>
+            </label>
+            <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required'/>
+        </p>
+        <p class="form-submit">
+            <input name="submit" type="submit" id="submit" class="submit" value="Publicera kommentar"/>
+            <input type='hidden' name='comment_post_ID' value='96111' id='comment_post_ID'/>
+            <input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+        </p>
+        <p style="display: none;">
+            <input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="80c9dd8aba"/>
+        </p>
+        <input type="hidden" id="ak_js" name="ak_js" value="167"/>
+        <textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100" style="display: none !important;"></textarea>
+    </form>
+</div>

@@ -1,0 +1,18 @@
+# Authors
+
+Hedvig Sundelin:
+  name        : "Hedvig Sundelin"
+  uri         : # "http://name.com"
+  email       : "hedvig.sundelin@gu.se"
+  bio         : "Wasting my time ."
+  avatar      : "cat.png"
+  twitter     : "missbildadkundvagn"
+  github      : "hedvigsun"
+
+Pol Sole:
+  name        : "Pol Solé Navais"
+  email       : "pol.sole.navais@gu.se"
+  bio         : "I ordered what?"
+  avatar      : "polsole.jpg"
+  orcid       : "https://orcid.org/0000-0002-3326-266X"
+  github      : "psnavais"
