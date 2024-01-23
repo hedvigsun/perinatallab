@@ -240,12 +240,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _conferences
   - scope:
       path: ""
       type: conferences
     values:
-      layout: talks
+      layout: conferences
       author_profile: true
       share: true
 
