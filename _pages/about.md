@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Latest updates: 
-<p style="text-decoration:underline;"><a href="/hedvigsun/people/">New people added!</a></p>
+<p style="text-decoration:underline;"><a href="/perinatallab/people/">New people added!</a></p>
 
-<p style="text-decoration:underline;"><a href="/hedvigsun/publications/">New publications!</a></p>
+<p style="text-decoration:underline;"><a href="/perinatallab/publications/">New publications!</a></p>
 
 -------
 
@@ -22,7 +22,7 @@ Additional plots and information:
 
 -------
 
-<img class="wp-image-817" style="width:340px;" src="/images/conference/image.png" alt="plot" class="inline"/>
+<img class="wp-image-817" style="width:340px;" src="/perinatallab/images/conference/image.png" alt="plot" class="inline"/>
 <img class="wp-image-817" style="width:340px;" src="/images/plot.png" alt="plotm" class="inline"/>
 <img src="/images/cat.png"
     width="50"
