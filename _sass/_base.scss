@@ -237,6 +237,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
+  background: $caption-background-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
 

@@ -67,6 +67,7 @@ $masthead-color             :#4b6d5d;
 
 $body-color                 : $green;  
 $background-color           : $light-green;
+$caption-background-color   : mix(#fff, $masthead-color, 20%);
 $code-background-color      : $saffron-yellow;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
