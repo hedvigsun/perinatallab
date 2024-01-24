@@ -245,7 +245,7 @@ defaults:
       path: ""
       type: conferences
     values:
-      layout: conferences
+      layout: conference
       author_profile: true
       share: true
 
