@@ -13,10 +13,13 @@ redirect_from:
 <p style="text-decoration:underline;"><a href="/hedvigsun/people/">New people added!</a></p>
 
 <p style="text-decoration:underline;"><a href="/hedvigsun/publications/">New publications!</a></p>
+
 -------
+
 Additional plots and information:
 <img src="/images/conference/image.png"
   class="center">
+
 -------
 
 <img class="wp-image-817" style="width:340px;" src="/images/conference/image.png" alt="plot" class="inline"/>
