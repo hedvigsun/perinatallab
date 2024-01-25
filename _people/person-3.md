@@ -9,7 +9,7 @@ author: "Karin Ytterberg"
 author_profile: true
 ---
 
-Information about person 3
+Information about Karin
 
 ***Recent publications:*** <br>
 
