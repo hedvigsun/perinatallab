@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
@@ -8,10 +11,16 @@ main:
 
   - title: "People"
     url: /people/    
-    
-  - title: "Projects"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+            
+  - title: "News"
     url: /year-archive/
-    
+  
+  - title: "Contact"
+    url: /contact/
+  
+  - title: "About us"
+    url: /about-us/
+  
+  - title: "Media"
+    url: /media/
+
