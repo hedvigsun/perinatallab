@@ -3,6 +3,7 @@ permalink: /
 title: "PerinatalLab"
 excerpt: "About me"
 author_profile: true
+header: "karin.jpg"
 redirect_from: 
   - /about/
   - /about.html

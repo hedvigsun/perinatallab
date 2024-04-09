@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Perinatal Laboratory"
 title_separator          : "-"
 name                     : &name "Perinatal Laboratory"
 description              : &description "Research group"
