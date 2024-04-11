@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "About us"
+permalink: /about/
+author_profile: false
+---
+
+{% include base_path %}
+
+test
+
+{% for post in site.people %}
+  {% include archive-single.html %}
+{% endfor %}
