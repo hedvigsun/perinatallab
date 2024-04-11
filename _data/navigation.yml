@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "About us"
+    url: /about-us/
+    
   - title: "Research"
     url: /research/
 
@@ -17,9 +21,6 @@ main:
   
   - title: "Contact"
     url: /contact/
-  
-  - title: "About us"
-    url: /about-us/
   
   - title: "Media"
     url: /media/
