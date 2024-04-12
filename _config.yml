@@ -15,13 +15,13 @@ url                      : https://www.espbc.se # https://academicpages.github.i
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "hedvigsun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "discourse" # "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "weeb" # "gh-pages" # "master", "gh-pages"
+  branch                 : "wbw" #"local" # "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
