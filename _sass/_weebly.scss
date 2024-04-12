@@ -1366,6 +1366,10 @@ h2.blog-title a {
     }
 }
 
+
+/* Adaptive screen */
+
+
 @media screen and (max-width: 767px) {
     body {
         font-size: 14px;
@@ -1417,7 +1421,7 @@ h2.blog-title a {
     }
 
     #main-wrap {
-        background: #fff;
+        background: #ffffff00;
     }
 
     #main-wrap .container {
