@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Perinatal Lab# If the user or organization name differs from the site's name
+  name                   : Perinatal Lab # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -81,7 +81,7 @@ analytics:
   
 # Site Author
 author:
-  name             : "Perinatal Lab"
+  name             : "Perinatal Laboratory"
   avatar           : "pnatal.png"
   bio              : "Research group"
   location         : "Gothenurg, SE"
@@ -197,6 +197,13 @@ collections:
 
 # Defaults
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: main
+    values:
+      sidebar:
+      nav: "main"
   # _posts
   - scope:
       path: ""
@@ -268,8 +275,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
