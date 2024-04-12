@@ -11,8 +11,8 @@ title                    : "Perinatal Laboratory"
 title_separator          : "-"
 name                     : &name "Perinatal Laboratory"
 description              : &description "Research group"
-url                      : https://www.espbc.se # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://hedvigsun.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/perinatallab" # the subpath of your site, e.g. "/blog"
 repository               : "hedvigsun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -32,7 +32,7 @@ comments:
     colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "wbw" #"local" # "gh-pages" # "master", "gh-pages"
+  branch                 : "weeb" #"local" # "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
