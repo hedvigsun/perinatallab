@@ -1,10 +1,13 @@
 {% include base_path %}
-
+<!--
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+-->
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="http://schema.org/Person"><!--class="h-card">-->
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}

@@ -6,6 +6,9 @@ main:
 
   - title: "Research"
     url: /research/
+    children:
+      - title: "Research areas"
+        url: /research/areasOfRes
 
   - title: "Publications"
     url: /publications/
