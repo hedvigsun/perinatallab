@@ -12,32 +12,41 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - image_path: /97539278/genetics-icon_14.png
+  # title:  "Our Main Research Areas"
+  # background_image: "97539278/background-images/background-images/71917152.jpg"
+  - image_path: /97539278/rityta-3_1_orig.png
     alt: "genetics"
     title: "Genetics"
     excerpt: "Cohort Based"
-    url: "/docs/configuration/"
+    url: "/research/genetics/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /97539278/biomarkers-4_11.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /97539278/rityta-3-kopia_orig.png
+    alt: "epidemiology"
+    title: "Epidemiology"
+    excerpt: "Register Based"
+    url: "/research/epidemiology/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /97539278/genetics-icon_14.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /97539278/rityta-3-kopia-2_orig.png
+    alt: "biomarkers"
+    title: "Biomarkers"
+    excerpt: "Cohort Based"
+    url: "/research/biomarkers/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+  - image_path: /97539278/rityta-3-kopia-3_orig.png
+    alt: "nutrition"
+    title: "Nutrition"
+    excerpt: "Cohort Based"
+    url: "/research/nutrition/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
 {% include base_path %}
 
-<div><div id="380526382765341382" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h1 id="Ytitle"> Welcome to </h1></div>
-</div>
+<!-- <div><div id="380526382765341382" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h1 id="Ytitle"> Welcome to </h1></div>
+</div> -->
 
 ## <span style="font-variant:small-caps;"><span style="color:$green">**Welcome to**</span></span>
 **Sahlgrenska Perinatal Laboratory**
