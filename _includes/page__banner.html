@@ -42,10 +42,17 @@
           {{ page.banner | default: page.banner | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </Ytitle>
+      <h3 class="wsite-content-title" itemprop="headline" style="text-align: left;">
+        {% if page.banner_excerpt %}
+          {{ page.banner_excerpt | default: page.banner_excerpt | markdownify | remove: "<p>" | remove:"</p>" }}
+        {% endif %}
+      </h3>
         {% include feature_row %}
+      
       <!-- {% if page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-      {% endif %} -->
+        {% endif %} -->
+
       <!-- {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %} -->

@@ -87,7 +87,7 @@
   overflow: hidden;
   text-align: center;
   img {
-    width: 80%;
+    width: 100%;
   }
 }
 
@@ -193,10 +193,10 @@
 
 
 .feature__item {
-  margin-bottom: 2em;
+  margin-bottom: 2rem;
   font-size: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 1rem;
+  padding-right: 1rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;

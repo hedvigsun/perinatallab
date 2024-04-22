@@ -29,7 +29,7 @@ body {
     color: $text-color;
     margin: 0;
     padding: 0;
-    padding-bottom: 9em;
+    padding-bottom: 9rem;
     // background: #aecfc1;
     // color: #666666;
     // font-family: 'Lato', sans-serif;
@@ -37,22 +37,23 @@ body {
     font-family: $global-font-family;
     font-size: $type-size-5;
     font-weight: normal;
-    line-height: 1.5em;
+    line-height: 1.5rem;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2em;
+  margin: 0 0 0.5rem;
+  line-height: 1.2rem;
   font-family: $header-font-family;
-  font-weight: bold;
+  // font-weight: bold;
 }
 
 h1 {
   margin-top: 0;
   font-size: $type-size-1;
+  font-weight: bold;
 }
 
 /*
@@ -69,9 +70,9 @@ h3 {
     padding-bottom: 3px;
     color: #CFA125;
     font-family: 'Roboto', sans-serif;
-    font-size: 18px;
+    font-size: $type-size-3;
     font-weight: bold;
-    line-height: 1.1em;
+    line-height: 1.1rem;
     letter-spacing: 3px;
 }
 
@@ -79,17 +80,17 @@ h2 {
     font-size: $type-size-2;
     margin-top: 0;
     font-weight: 300;
-    line-height: 1.3em;
+    line-height: 1.3rem;
 }
 
 h3 {
     padding-bottom: 5px;
-    color: #0a0909;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: $type-size-3;
-    font-weight: 100;
-    line-height: 1.0em;
-    letter-spacing: 3px;
+    font-weight: lighter;
+    line-height: 1.5rem;
+    letter-spacing: 2px;
     text-align: center;
 } 
 
@@ -111,11 +112,11 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: .3rem;
 }
 
 pbtn {
-  margin-bottom: 1.3em;
+  margin-bottom: 1.3rem;
   text-align: center;
 }
 

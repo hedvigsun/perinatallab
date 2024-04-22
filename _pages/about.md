@@ -12,6 +12,7 @@ redirect_from:
   - /about/
   - /about.html
 banner: "Our Main"
+banner_excerpt: "Fields of Research"
 feature_row:
   - image_path: /97539278/rityta-3_1_orig.png
     alt: "genetics"
@@ -49,10 +50,27 @@ feature_row:
 
 ## <span style="font-variant:small-caps;"><span style="color:$green">**Welcome to**</span></span>
 **Sahlgrenska Perinatal Laboratory**
+<div class="wsite-section-wrap">
+ <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+    <table class="wsite-multicol-table">
+      <tbody class="wsite-multicol-tbody">
+        <tr class="wsite-multicol-tr">
+          <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
+            <p align="left">
+              About 10 500 babies are born at Sahlgrenska University Hospital each year. The hospital is also a regional referral unit for the Western Health Care Region of Sweden. This creates a very good base for research within the area of Pregnancy and Delivery. We also have a unique collaboration with the Norwegian Mother Child Cohort Study that has created favorable conditions for epidemiological and genetic research. 
+              The Perinatal Laboratory, led by professor Bo Jacobsson, studies different aspects of both pregnancy and delivery. The main focus is epidemiology, genetics, biomarkers and mechanisms of spontaneous preterm delivery.
+            </p>
+          </td>
+          <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
+            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width="200px" style="padding-left: 15px">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+</div>
+</div>
 
-About 10 500 babies are born at Sahlgrenska University Hospital each year. The hospital is also a regional referral unit for the Western Health Care Region of Sweden. This creates a very good base for research within the area of Pregnancy and Delivery. We also have a unique collaboration with the Norwegian Mother Child Cohort Study that has created favorable conditions for epidemiological and genetic research. 
-
-The Perinatal Laboratory, led by professor Bo Jacobsson, studies different aspects of both pregnancy and delivery. The main focus is epidemiology, genetics, biomarkers and mechanisms of spontaneous preterm delivery.
 
 
 

@@ -18,11 +18,14 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__banner">
-      <footer>
-        {% include page__banner.html %}
-      </footer>
-    </div>
+    {% if page.banner %}
+      <div class="page__banner">
+        <footer>
+          {% include page__banner.html %}
+        </footer>
+      </div>
+    {% endif %}
+
 
     <div class="page__footer">
       <footer>

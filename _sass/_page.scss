@@ -49,7 +49,9 @@
 }
 .page__banner {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
+  font-weight: bold;
+  line-height: 1.1em;
 }
 
 
@@ -135,17 +137,17 @@
     }
 
     .wrapper {
-      padding-left: 1em;
-      padding-right: 1em;
+      padding-left: 2em;
+      padding-right: 2em;
 
-    //  @include breakpoint($x-large) {
+      @include breakpoint($x-large) {
     //    max-width: none;
-        // max-width: $x-large;
-     // }
+         max-width: $x-large;
+      }
     }
     .page__banner {
       color: $warning-color;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      // text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
     .page__title,
     .page__meta,
