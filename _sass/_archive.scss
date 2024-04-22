@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 12em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -52,7 +52,7 @@
 
 .archive__item-link {
     /* Define the default link color and style */
-    color: inherit; /* Inherit the color from the parent */
+    color: #ffff; /* Inherit the color from the parent */
     text-decoration: none; /* Remove underline */
 }
 
@@ -176,7 +176,7 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+//  border-bottom: 1px solid $border-color;
 }
 
   // .feature__wrapper-background {
@@ -194,7 +194,9 @@
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -209,7 +211,7 @@
 
   &--left {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.25em;
 
     .archive__item-teaser {
       margin-bottom: 2em;

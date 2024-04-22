@@ -1,19 +1,18 @@
 ---
-layout: splash
+layout: splash-low
 permalink: /
 hidden: true
 title: "PerinatalLab"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#ffff"
   overlay_image: "97539278/background-images/background-images/71917152.jpg"
 redirect_from: 
   - /about/
   - /about.html
+banner: "Our Main"
 feature_row:
-  # title:  "Our Main Research Areas"
-  # background_image: "97539278/background-images/background-images/71917152.jpg"
   - image_path: /97539278/rityta-3_1_orig.png
     alt: "genetics"
     title: "Genetics"
@@ -55,12 +54,12 @@ About 10 500 babies are born at Sahlgrenska University Hospital each year. The h
 
 The Perinatal Laboratory, led by professor Bo Jacobsson, studies different aspects of both pregnancy and delivery. The main focus is epidemiology, genetics, biomarkers and mechanisms of spontaneous preterm delivery.
 
-{% include feature_row %}
+
 
 ## Latest updates: 
 <p style="text-decoration:underline;"><a href="/perinatallab/people/">New people added!</a></p>
 
-<p style="text-decoration:underline;"><a href="/perinatallab/publications/">New publications!</a></p>
+<p style="text-decoration:underline;"><a href="/perinatallab/publications/">New publications!</a></p> 
 
 
 ---------
