@@ -7,7 +7,7 @@ excerpt: "About me"
 author_profile: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "97539278/background-images/background-images/71917152.jpg"
+  overlay_image: "97539278/background-images/382817449.jpg"
 redirect_from: 
   - /about/
   - /about.html
