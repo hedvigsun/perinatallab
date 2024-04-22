@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 12em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -36,17 +36,31 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    text-align: center;
   }
 }
 
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  text-align: center;
 
   a + a {
     opacity: 0.5;
   }
 }
+
+.archive__item-link {
+    /* Define the default link color and style */
+    color: #ffff; /* Inherit the color from the parent */
+    text-decoration: none; /* Remove underline */
+}
+
+// .archive__item-link:hover {
+//     /* Define the link color and style on hover */
+//     // color: #007bff; /* Change the color to blue on hover */
+//     // text-decoration: underline; /* Underline the link on hover */
+// }
 
 /* remove border*/
 .page__content {
@@ -59,7 +73,9 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  color: $warning-color;
   font-size: $type-size-6;
+  text-align: center;
 
   & + p {
     text-indent: 0;
@@ -69,6 +85,7 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+  text-align: center;
   img {
     width: 80%;
   }
@@ -159,26 +176,42 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+//  border-bottom: 1px solid $border-color;
 }
+
+  // .feature__wrapper-background {
+  //     position: relative;
+  //     margin-bottom: 2em;
+  //     padding: 3em 0;
+  //     @include clearfix;
+  //     background-size: cover;
+  //     background-repeat: no-repeat;
+  //     background-position: center;
+  //     animation: intro 0.3s both;
+  //     animation-delay: 0.25s;
+  // }
+
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
 
   @include breakpoint($small) {
     margin-bottom: 0;
-    @include gallery(4 of 12);
+    @include gallery(3 of 12);
 
     .feature__item-teaser {
       max-height: 200px;
+      max-width: auto;
       overflow: hidden;
     }
   }
 
   &--left {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.25em;
 
     .archive__item-teaser {
       margin-bottom: 2em;

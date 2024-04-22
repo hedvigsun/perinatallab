@@ -1,0 +1,145 @@
+.header-wrap .nav-wrap {
+    position: relative;
+    z-index: 6;
+    width: 100%;
+    background: rgba(255,255,255,0.95);
+    border-bottom: 6.5px solid #16A991;
+    text-align: center;
+}
+
+.header-wrap label.hamburger {
+    display: none;
+}
+
+.menu {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    max-width: none;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu .container {
+    max-width: 1200px !important;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 6px 0px;
+    margin-right: 25px;
+}
+
+.menu a {
+    color: #3b3b3b;
+}
+
+.menu .wsite-menu-default li a {
+    border-bottom: 7px solid transparent;
+    padding-bottom: 14px;
+    padding-left: 22px;
+    padding-right: 22px;
+    transition: 0.2s ease-in border-bottom;
+    letter-spacing: .03em;
+}
+
+.menu .wsite-menu-default li a:hover, .menu .wsite-menu-default li#active a {
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 14px;
+    border-bottom: 7px solid #CFA125;
+}
+
+.menu .wsite-menu-default li a:hover:before, .menu .wsite-menu-default li#active a:before {
+    content: " ";
+    position: absolute;
+    z-index: 999;
+    top: 0px;
+    left: -4px;
+    right: -4px;
+}
+
+.menu .wsite-menu-default span li {
+    margin-right: 40px !important;
+}
+
+.menu .wsite-menu-default span:last-child li, .menu .wsite-menu-default li:last-child {
+    margin-right: 0;
+}
+
+.search {
+    float: right;
+    margin-left: 40px;
+}
+
+.search .wsite-search + .menu {
+    text-align: left;
+}
+
+.search .wsite-search-input {
+    width: 140px;
+    height: auto;
+    padding: 13px 10px !important;
+    background: transparent;
+    color: #3B3B3B;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.search .wsite-search-button {
+    width: 18px;
+    height: 18px;
+    background: url(theme/images/search.svg?1703151345) no-repeat;
+    background-size: 15px;
+    margin: 15px 7px 0 3px;
+}
+
+#wsite-header-search-form {
+    border-left: 1px solid rgba(116,116,116,0.15);
+    border-right: 1px solid rgba(116,116,116,0.15);
+}
+.navmobile-wrapper {
+    display: none;
+}
+
+#wsite-menus .wsite-menu {
+    margin-top: 0px !important;
+}
+
+#wsite-menus .wsite-menu li a {
+    font-family: 'Lato-light', sans-serif;
+    font-size: 12px;
+    color: #3B3B3B;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 10px 0 !important;
+    background: rgba(255,255,255,0.9);
+    border: none;
+}
+
+#wsite-menus .wsite-menu li {
+    border: 1px solid #ebebeb;
+}
+
+#wsite-menus .wsite-menu li + li {
+    border-top: none;
+}
+
+#wsite-menus .wsite-menu-arrow {
+    position: absolute;
+    top: 14px;
+    right: 0px;
+    display: inline-block !important;
+    padding: 0 5px 0 10px;
+    font-size: 0;
+    line-height: 0;
+}
+
+#wsite-mini-cart .wsite-subtotal-wrapper {
+    font-weight: 700;
+}

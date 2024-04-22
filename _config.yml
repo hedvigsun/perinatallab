@@ -11,17 +11,17 @@ title                    : "Perinatal Laboratory"
 title_separator          : "-"
 name                     : &name "Perinatal Laboratory"
 description              : &description "Research group"
-url                      : https://www.espbc.se # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://hedvigsun.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/perinatallab" # the subpath of your site, e.g. "/blog"
 repository               : "hedvigsun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "discourse" # "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "local" # "gh-pages" # "master", "gh-pages"
+  branch                 : "weeb" #"local" # "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Perinatal Lab# If the user or organization name differs from the site's name
+  name                   : Perinatal Lab # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -81,7 +81,7 @@ analytics:
   
 # Site Author
 author:
-  name             : "Perinatal Lab"
+  name             : "Perinatal Laboratory"
   avatar           : "pnatal.png"
   bio              : "Research group"
   location         : "Gothenurg, SE"
@@ -197,6 +197,13 @@ collections:
 
 # Defaults
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: main
+    values:
+      sidebar:
+      nav: "main"
   # _posts
   - scope:
       path: ""
@@ -268,8 +275,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

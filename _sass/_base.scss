@@ -1,11 +1,12 @@
 /* ==========================================================================
-   BASE ELEMENTS
+   BASE ELEMENTS, headers, lists, links
    ========================================================================== */
 html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
 }
+/* old version
 
 body {
   margin: 0;
@@ -16,23 +17,46 @@ body {
   line-height: 1.5;
 
   &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
+    /* when primary navigation is visible, the content in the background won't scroll *//*
     overflow: hidden;
   }
 }
+*/
+body {
+    position: relative;
+    width: 100%;
+    background: $background-color;
+    color: $text-color;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 9em;
+    // background: #aecfc1;
+    // color: #666666;
+    // font-family: 'Lato', sans-serif;
+    // font-size: 16px;
+    font-family: $global-font-family;
+    font-size: $type-size-5;
+    font-weight: normal;
+    line-height: 1.5em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.2em;
   font-family: $header-font-family;
   font-weight: bold;
 }
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-1;
 }
 
+/*
+old versions
 h2 {
   font-size: $type-size-4;
 }
@@ -40,13 +64,42 @@ h2 {
 h3 {
   font-size: $type-size-5;
 }
+*/
+#Ytitle {
+    padding-bottom: 3px;
+    color: #CFA125;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.1em;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: $type-size-2;
+    margin-top: 0;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+
+h3 {
+    padding-bottom: 5px;
+    color: #0a0909;
+    font-family: 'Roboto', sans-serif;
+    font-size: $type-size-3;
+    font-weight: 100;
+    line-height: 1.0em;
+    letter-spacing: 3px;
+    text-align: center;
+} 
+
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $type-size-4;
 }
 
 h5 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 h6 {
@@ -60,6 +113,12 @@ small, .small {
 p {
   margin-bottom: 1.3em;
 }
+
+pbtn {
+  margin-bottom: 1.3em;
+  text-align: center;
+}
+
 
 u,
 ins {
@@ -76,7 +135,7 @@ del a {
 
 /* reduce orphans and widows when printing */
 
-p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+p, pbtn, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
 }
@@ -121,7 +180,19 @@ a {
     outline: 0;
   }
 }
+/* from weebly */
+a {
+    color: #6E6E6E;
+    -webkit-transition: color 200ms ease-in;
+    -moz-transition: color 200ms ease-in;
+    -ms-transition: color 200ms ease-in;
+    -o-transition: color 200ms ease-in;
+    transition: color 200ms ease-in;
+}
 
+a:hover, .wsite-com-link:hover .wsite-com-link-text {
+    color: #2B2B2B;
+}
 /* code */
 
 tt, code, kbd, samp, pre {
@@ -133,6 +204,7 @@ pre {
 }
 
 p > code,
+pbtn > code,
 a > code,
 li > code,
 figcaption > code,
@@ -230,6 +302,19 @@ figure {
       width: 100%;
     }
   }
+
+  &.fourth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(25% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */
@@ -312,7 +397,7 @@ nav {
    Global animation transition
    ========================================================================== */
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
+pbtn, b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }

@@ -3,9 +3,12 @@ main:
 
   - title: "About us"
     url: /about-us/
-    
+
   - title: "Research"
     url: /research/
+    children:
+      - title: "Research areas"
+        url: /research/areasOfRes
 
   - title: "Publications"
     url: /publications/
