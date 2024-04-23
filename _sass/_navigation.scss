@@ -188,6 +188,17 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
+    
+    &.site-logo {
+      margin-left: 0;
+      margin-right: 0.1rem;
+      border-radius: $border-radius;
+      border-color: $border-color;
+    }
+
+    &.site-title {
+      margin-left: 0;
+    }
   }
 
   button {

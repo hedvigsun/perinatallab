@@ -40,6 +40,10 @@ body {
     line-height: 1.5rem;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    &.overflow--hidden {
+    /* when primary navigation is visible, the content in the background won't scroll */
+      overflow: hidden;
+  }
 }
 
 
@@ -115,10 +119,6 @@ p {
   margin-bottom: .3rem;
 }
 
-pbtn {
-  margin-bottom: 1.3rem;
-  text-align: center;
-}
 
 
 u,
@@ -136,7 +136,7 @@ del a {
 
 /* reduce orphans and widows when printing */
 
-p, pbtn, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
 }
@@ -205,7 +205,6 @@ pre {
 }
 
 p > code,
-pbtn > code,
 a > code,
 li > code,
 figcaption > code,

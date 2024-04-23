@@ -1,16 +1,16 @@
 ---
 layout: splash-low
-permalink: /
+permalink: /home/
 hidden: true
-title: "PerinatalLab"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 header:
   overlay_color: "#ffff"
   overlay_image: "97539278/background-images/71917152.jpg"
 redirect_from: 
-  - /about/
-  - /about.html
+  - /
+  - /home.html
 banner: "Our Main"
 banner_excerpt: "Fields of Research"
 feature_row:
