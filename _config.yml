@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Perinatal Laboratory"
+logo                     : "pnatal.png"
 title_separator          : "-"
 name                     : &name "Perinatal Laboratory"
 description              : &description "Research group"

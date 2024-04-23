@@ -271,7 +271,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   tzinfo-data
-  webrick (~> 1.8)
+  webrick
 
 BUNDLED WITH
    2.3.5
