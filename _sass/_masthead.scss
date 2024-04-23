@@ -110,7 +110,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.6rem 1rem 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -127,15 +127,22 @@
   }
 }
 .site-logo img {
-    max-width: 4rem;
+    max-width: 2.5rem;
     border-radius: 50%;
+    vertical-align: middle;
+    margin-left: -1rem;
 
     @include breakpoint($large) {
       padding: 0.1rem;
       border: 0rem solid $border-color;
     }
   }
-
+.site-title {
+  font-size: $type-size-5;
+  color: $title-color;
+  font-family: $title-font;
+  font-weight: lighter;
+}
 
 .masthead__menu {
 
