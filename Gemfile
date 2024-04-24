@@ -27,6 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jemoji'
+  gem 'jekyll-include-cache'
 end
 
 # timezone
