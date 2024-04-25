@@ -1,16 +1,16 @@
 ---
 layout: splash-low
-permalink: /
+permalink: /home/
 hidden: true
-title: "PerinatalLab"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 header:
   overlay_color: "#ffff"
   overlay_image: "97539278/background-images/71917152.jpg"
 redirect_from: 
-  - /about/
-  - /about.html
+  - /
+  - /home.html
 banner: "Our Main"
 banner_excerpt: "Fields of Research"
 feature_row:
@@ -45,9 +45,6 @@ feature_row:
 ---
 {% include base_path %}
 
-<!-- <div><div id="380526382765341382" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h1 id="Ytitle"> Welcome to </h1></div>
-</div> -->
-
 ## <span style="font-variant:small-caps;"><span style="color:$green">**Welcome to**</span></span>
 **Sahlgrenska Perinatal Laboratory**
 <div class="wsite-section-wrap">
@@ -62,7 +59,7 @@ feature_row:
             </p>
           </td>
           <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
-            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width="200px" style="padding-left: 15px">
+            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width=auto style="padding-left: 15px">
           </td>
         </tr>
       </tbody>
@@ -71,15 +68,4 @@ feature_row:
 </div>
 </div>
 
-
-
-
-## Latest updates: 
-
-<p style="text-decoration:underline;"><a href="/perinatallab/people/">New people added!</a></p>
-
-<p style="text-decoration:underline;"><a href="/perinatallab/publications/">New publications!</a></p> 
-
-
----------
 
