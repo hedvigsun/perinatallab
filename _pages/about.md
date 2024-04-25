@@ -75,6 +75,7 @@ feature_row:
 
 
 ## Latest updates: 
+
 <p style="text-decoration:underline;"><a href="/perinatallab/people/">New people added!</a></p>
 
 <p style="text-decoration:underline;"><a href="/perinatallab/publications/">New publications!</a></p> 
