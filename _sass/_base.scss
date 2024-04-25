@@ -35,9 +35,9 @@ body {
     // font-family: 'Lato', sans-serif;
     // font-size: 16px;
     font-family: $global-font-family;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     font-weight: normal;
-    line-height: 1.5rem;
+    line-height: 1.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     &.overflow--hidden {
@@ -48,8 +48,8 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 0.5rem;
-  line-height: 1.2rem;
+  margin: 0 0 0.5em;
+  line-height: 1.2em;
   font-family: $header-font-family;
   // font-weight: bold;
 }
@@ -76,7 +76,7 @@ h3 {
     font-family: 'Roboto', sans-serif;
     font-size: $type-size-3;
     font-weight: bold;
-    line-height: 1.1rem;
+    line-height: 1.1em;
     letter-spacing: 3px;
 }
 
@@ -84,7 +84,7 @@ h2 {
     font-size: $type-size-2;
     margin-top: 0;
     font-weight: 300;
-    line-height: 1.3rem;
+    line-height: 1.3em;
 }
 
 h3 {
@@ -93,7 +93,7 @@ h3 {
     font-family: 'Roboto', sans-serif;
     font-size: $type-size-3;
     font-weight: lighter;
-    line-height: 1.5rem;
+    line-height: 1.5em;
     letter-spacing: 2px;
     text-align: center;
 } 
@@ -397,7 +397,7 @@ nav {
    Global animation transition
    ========================================================================== */
 
-pbtn, b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
+b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }

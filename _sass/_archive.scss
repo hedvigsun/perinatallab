@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 12em;
+  margin-bottom: 12rem;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -30,9 +30,9 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
+  // font-size: $type-size-5;
   color: mix(#000000, $body-color, 25%);
-  border-bottom: 1px solid $border-color;
+//  border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -49,6 +49,20 @@
     opacity: 0.5;
   }
 }
+
+.archive__item-subtitle {
+  margin-bottom: 0.25em;
+  font-family: $sans-serif-narrow;
+  text-align: left;
+  color: $subtitle-color;
+  font-weight: lighter;
+  text-transform: uppercase;
+
+  a + a {
+    opacity: 0.5;
+  }
+}
+
 
 .archive__item-link {
     /* Define the default link color and style */
@@ -232,7 +246,7 @@
 
   &--right {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.25em;
 
     .archive__item-teaser {
       margin-bottom: 2em;

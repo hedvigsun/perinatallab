@@ -35,14 +35,14 @@ $caption-font-family        : $serif;
 $title-font                 : $sans-serif-narrow;
 
 /* type scale */
-$type-size-1                : 2.441rem;  // ~39.056px
-$type-size-2                : 1.53rem;  // ~25.248px
-$type-size-3                : 1.25rem;  // ~20.008px
-$type-size-4                : 1.15rem;   // ~18px
-$type-size-5                : 1rem;      // ~16px
-$type-size-6                : 0.75rem;   // ~12px
-$type-size-7                : 0.6875rem; // ~11px
-$type-size-8                : 0.625rem;  // ~10px
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.53em;  // ~25.248px
+$type-size-3                : 1.25em;  // ~20.008px
+$type-size-4                : 1.15em;   // ~18px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
 
 
 /*
@@ -66,14 +66,20 @@ $light-green                :#acc2b5;
 $top-border                 :#567890;
 $masthead-color             :#4b6d5d;
 $title-color                :#ffffff;
+$rust-red                   :rgb(168, 95, 46);
+
 
 $body-color                 : $green;  
 $background-color           : $light-green;
 $caption-background-color   : mix(#fff, $masthead-color, 20%);
 $code-background-color      : $saffron-yellow;
 $code-background-color-dark : $light-gray;
+
+
+/* Texy color */
 $text-color                 : $dark-gray;
 $border-color               : $castleton-green;
+$subtitle-color             : $rust-red;
 
 $primary-color              : $castleton-green;
 $success-color              : $green;
