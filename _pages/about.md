@@ -45,8 +45,10 @@ feature_row:
 ---
 {% include base_path %}
 
-## <span style="font-variant:small-caps;"><span style="color:$green">**Welcome to**</span></span>
-**Sahlgrenska Perinatal Laboratory**
+<!-- ## <span style="font-variant:small-caps;"><span style="color:$green">**Welcome to**</span></span> -->
+<h3 class="page__title" style="font-variant:small-caps;">Welcome to</h3>
+<h4 class="page__subtitle">Sahlgrenska Perinatal Laboratory</h4>
+
 <div class="wsite-section-wrap">
  <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
     <table class="wsite-multicol-table">
@@ -59,7 +61,7 @@ feature_row:
             </p>
           </td>
           <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
-            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width=auto style="padding-left: 15px">
+            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width=auto style="padding: 15px 15px">
           </td>
         </tr>
       </tbody>

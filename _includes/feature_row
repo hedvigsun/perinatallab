@@ -48,11 +48,11 @@
           {% endif %}
           {% if f.title %}
             {% if f.url %}
-              <h2 class="archive__item-title">
+              <h4 class="archive__item-title">
                 <a href="{{ f_url }}" class="archive__item-link">{{ f.title }}</a>
-              </h2>
+              </h4>
             {% else %}
-              <h2 class="archive__item-title">{{ f.title }}</h2>
+              <h4 class="archive__item-title">{{ f.title }}</h4>
             {% endif %}
           {% endif %}
           

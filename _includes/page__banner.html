@@ -35,18 +35,18 @@
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
 
-      <Ytitle class="page__banner" itemprop="headline">
+      <h3 class="page__banner-title" itemprop="headline">
         {% if paginator %}
           {{ page.banner }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {{ page.banner | default: page.banner | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
-      </Ytitle>
-      <h3 class="wsite-content-title" itemprop="headline" style="text-align: left;">
+      </h3>
+      <h2 class="page__banner-subtitle" itemprop="headline" style="text-align: left;">
         {% if page.banner_excerpt %}
           {{ page.banner_excerpt | default: page.banner_excerpt | markdownify | remove: "<p>" | remove:"</p>" }}
         {% endif %}
-      </h3>
+      </h2>
         {% include feature_row %}
       
       <!-- {% if page.excerpt %}

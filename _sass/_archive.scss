@@ -30,7 +30,6 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  // font-size: $type-size-5;
   color: mix(#000000, $body-color, 25%);
 //  border-bottom: 1px solid $border-color;
 
@@ -54,7 +53,7 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   text-align: left;
-  color: $subtitle-color;
+  color: $title-color;
   font-weight: lighter;
   text-transform: uppercase;
 
@@ -87,7 +86,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  color: $warning-color;
+  color: #ffff;
   font-size: $type-size-6;
   text-align: center;
 

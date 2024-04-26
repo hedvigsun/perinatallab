@@ -21,6 +21,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $sans-serif-lato            : 'Lato', sans-serif;
+$sans-serif-roboto          : 'Roboto', sans-serif;
+
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -66,7 +68,7 @@ $castleton-green            :#12664F;
 $light-green                :#acc2b5;
 $top-border                 :#567890;
 $masthead-color             :#4b6d5d;
-$title-color                :#ffffff;
+$white                      :#ffffff;
 $rust-red                   :rgb(168, 95, 46);
 
 
@@ -80,7 +82,8 @@ $code-background-color-dark : $light-gray;
 /* Texy color */
 $text-color                 : $dark-gray;
 $border-color               : $castleton-green;
-$subtitle-color             : $rust-red;
+$title-color                : $rust-red;
+$subtitle-color             : $white;
 
 $primary-color              : $castleton-green;
 $success-color              : $green;

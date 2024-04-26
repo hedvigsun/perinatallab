@@ -47,10 +47,9 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 0.5em;
+  margin: 0 0 0;
   line-height: 1.2em;
   font-family: $header-font-family;
-  // font-weight: bold;
 }
 
 h1 {
@@ -82,19 +81,13 @@ h3 {
 h2 {
     font-size: $type-size-2;
     margin-top: 0;
-    font-weight: 300;
     line-height: 1.3em;
 }
 
 h3 {
     padding-bottom: 5px;
-    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: $type-size-3;
-    font-weight: lighter;
-    line-height: 1.5em;
-    letter-spacing: 2px;
-    // text-align: center;
 } 
 
 
