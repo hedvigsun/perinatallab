@@ -33,9 +33,8 @@ body {
     // background: #aecfc1;
     // color: #666666;
     // font-family: 'Lato', sans-serif;
-    // font-size: 16px;
-    font-family: $global-font-family;
     font-size: $type-size-6;
+    font-family: $global-font-family;
     font-weight: normal;
     line-height: 1.5em;
     -webkit-font-smoothing: antialiased;
@@ -95,7 +94,7 @@ h3 {
     font-weight: lighter;
     line-height: 1.5em;
     letter-spacing: 2px;
-    text-align: center;
+    // text-align: center;
 } 
 
 
