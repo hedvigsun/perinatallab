@@ -194,6 +194,9 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

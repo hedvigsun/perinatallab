@@ -1,7 +1,14 @@
 ---
-title: "Media"
-excerpt: "Media - Perinatal Laboratory"
+layout: archive
+title: "Machine Learning for Genetic Studies "
 collection: media
+type: "Poster"
+permalink: /conferences/2024-01-26-GSM
+venue: "Complex diseases, Stockholm"
+date: 2024-01-26
+location: "Stockholm, Sweden"
+author: "Hedvig Sundelin"
+author_profile: true
 ---
 		<div id="main-wrap">
 			<div id="wsite-content" class="wsite-elements wsite-not-footer">
