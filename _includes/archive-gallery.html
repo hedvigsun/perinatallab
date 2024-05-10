@@ -42,14 +42,18 @@
           {% if post.author and site.data.authors[post.author] %}
             {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.author %}
           {% endif %}
-          <div class="author__avatar" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:left">
-            <a>
+          <!-- <div class="author__avatar"> style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:left"> -->
+          <!-- <div class="author__avatar"> -->
+          <div class="archive__item-teaser">
+            <!-- <a> -->
           {% if author.avatar contains "://" %}
-    	      <img src="{{ author.avatar }}" alt="{{ author.name }}" style="width:auto;max-width:100%" />
+    	      <img src="{{ author.avatar }}" alt="{{ author.name }}"/>
+             <!-- style="width:auto;max-width:80%" /> -->
           {% else %}
-    	      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }} "style="width:auto;max-width:100%"/>
+    	      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" style="width: auto;" />
+             <!-- "style="width:auto;max-width:80%"/> -->
           {% endif %}
-                </a>
+                <!-- </a> -->
             <div style="display:block;font-size:90%"></div>
           </div>
 

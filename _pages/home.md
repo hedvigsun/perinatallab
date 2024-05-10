@@ -3,7 +3,6 @@ layout: splash-low
 permalink: /home/
 hidden: true
 title: "Home"
-excerpt: "About me"
 author_profile: true
 header:
   overlay_color: "#ffff"

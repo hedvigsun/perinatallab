@@ -1,5 +1,6 @@
 ---
 layout: splash
+type: grid
 title: "People2"
 redirect_from: 
   - /people2/

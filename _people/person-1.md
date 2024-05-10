@@ -1,7 +1,7 @@
 ---
 title: "Hedvig Sundelin"
 collection: people
-type: "title"
+type: "grid"
 permalink: /people/person-1
 venue: "University"
 author: "Hedvig Sundelin"
