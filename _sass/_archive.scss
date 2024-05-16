@@ -143,8 +143,93 @@
    ========================================================================== */
 
 .grid__item {
+  @include clearfix();
   margin-bottom: 2em;
+  
+  .author__item {
+  margin-bottom: 2rem;
+  font-size: 1em;
+  padding-left: 1rem;
+  padding-right: 1rem;
 
+  @include breakpoint($small) {
+    margin-bottom: 0;
+    @include gallery(3 of 12);
+
+    .author__item-teaser {
+      max-height: 200px;
+      max-width: auto;
+      overflow: hidden;
+    }
+  }
+
+  &--left {
+    @include full();
+    font-size: 1.25em;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      .archive__item-teaser {
+        @include span(5 of 12);
+      }
+
+      .archive__item-body {
+        @include span(7 of 12 last);
+        @include prefix(0.5 of 12);
+        @include suffix(1 of 12);
+      }
+    }
+  }
+
+  &--right {
+    @include full();
+    font-size: 1.25em;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      text-align: right;
+
+      .archive__item-teaser {
+        @include span(5 of 12 rtl);
+      }
+
+      .archive__item-body {
+        @include span(7 of 12 last rtl);
+        @include prefix(0.5 of 12);
+        @include suffix(1 of 12);
+      }
+    }
+  }
+
+  &--center {
+    @include full();
+    font-size: 1.25rem;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      text-align: center;
+
+      .archive__item-teaser {
+        margin: 0 auto;
+        width: span(5 of 12);
+      }
+
+      .archive__item-body {
+        margin: 0 auto;
+        width: span(7 of 12);
+      }
+    }
+  }
+  }
   .page__meta {
     margin: 0 0 4px;
   }
@@ -196,8 +281,8 @@
     }
   }
 
-}
 
+}
 
 /*
    Features
@@ -306,3 +391,28 @@
     }
   }
 }
+
+
+/*
+   People gallery
+   ========================================================================== */
+
+.author__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+//  border-bottom: 1px solid $border-color;
+}
+
+  // .feature__wrapper-background {
+  //     position: relative;
+  //     margin-bottom: 2em;
+  //     padding: 3em 0;
+  //     @include clearfix;
+  //     background-size: cover;
+  //     background-repeat: no-repeat;
+  //     background-position: center;
+  //     animation: intro 0.3s both;
+  //     animation-delay: 0.25s;
+  // }
+
+
