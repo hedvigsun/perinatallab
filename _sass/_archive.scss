@@ -161,7 +161,7 @@
   @include breakpoint($small) {
     @include gallery(5 of 10);
     .archive__item-teaser {
-      max-height: 200px;
+      max-height: 15em;
     }
   }
 
@@ -171,8 +171,8 @@
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
-      max-width: 100%;
-      height: auto;
+      width: 100%;
+      max-height: 10em;
     }
 
     .archive__item-excerpt {
@@ -180,6 +180,22 @@
       font-size: $type-size-6;
     }
   }
+  @include breakpoint($large) {
+    margin-left: 0; /* reset before mixin does its thing*/
+    margin-right: 0; /* reset before mixin does its thing*/
+    @include gallery(2 of 10);
+
+    .archive__item-teaser {
+      width: 100%;
+      max-height: 10em;
+    }
+
+    .archive__item-excerpt {
+      display: block;
+      font-size: $type-size-5;
+    }
+  }
+
 }
 
 

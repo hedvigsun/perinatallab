@@ -25,14 +25,15 @@
           alt="">
       </div>
     {% endif %}
-
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
+    {% if post.collection != 'people' %}
+      <h2 class="archive__item-title" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -50,14 +51,18 @@
     	      <img src="{{ author.avatar }}" alt="{{ author.name }}"/>
              <!-- style="width:auto;max-width:80%" /> -->
           {% else %}
-    	      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" style="width: auto;" />
+    	      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" style="width: 80%;" />
              <!-- "style="width:auto;max-width:80%"/> -->
           {% endif %}
                 <!-- </a> -->
             <div style="display:block;font-size:90%"></div>
           </div>
 
-         <p class="page__author"><strong><i class="fa fa-fw fa-user" aria-hidden="true"></i> {{ post.author | default: "Hedvig" }}</strong> {{ post.role | default: "Researcher" }}</p>
+         <p class="page__author">
+          <strong>
+            <i class="fa fa-fw fa-user" aria-hidden="true"></i> 
+            <a href = "{{ base_path }}{{ post.url }}" rel="permalink">{{ post.author | default: "Hedvig" }}</a>
+            </strong> {{ post.role | default: "Researcher" }}</p>
         
         
         {% elsif post.collection == 'publications' %}
