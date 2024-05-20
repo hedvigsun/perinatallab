@@ -107,6 +107,7 @@ feature_row:
                   </div>
                 </div>
 
+
                 <div class="wsite-spacer" style="height:20px;"></div>
                 <h2 class="wsite-content-title">The Team</h2>
                 {% include feature_row %}
@@ -117,11 +118,7 @@ feature_row:
                         <tbody class="wsite-multicol-tbody">
                           <tr class="wsite-multicol-tr">
                             <td class="wsite-multicol-col" style="width:100%; padding:0 15px;">
-                              {% for post in site.people %}
-                            <!-- <td class="wsite-multicol-col" style="width:20%; padding:0 15px;"> -->
-                                {% include archive-gallery.html type="grid" %}
-                            <!-- </td> -->
-                              {% endfor %}
+                                {% include peoplegallery %}
                             </td>
                           </tr>
                         </tbody>

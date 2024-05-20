@@ -1,0 +1,39 @@
+{% include base_path %}
+
+{% if include.id %}
+    {% assign gallery = page[include.id] %}
+{% else %}
+    {% assign gallery = page.gallery %}
+{% endif %}
+
+{% if include.layout %}
+    {% assign gallery_layout = include.layout %}
+{% else %}
+    {% if gallery.size == 2 %}
+        {% assign gallery_layout = 'half' %}
+    {% elsif gallery.size >= 3 %}
+        {% assign gallery_layout = 'third' %}
+    {% elsif gallery.size >= 4 %}
+        {% assign gallery_layout = 'fourth' %}
+    {% else %}
+        {% assign gallery_layout = 'people' %}
+    {% endif %}
+{% endif %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+    {% for post in site.people %}
+        {% if post.author and site.data.authors[post.author] %}
+            {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.author %}
+        {% endif %}
+        {% if author.avatar contains "://" %}
+            <img src="{{ author.avatar }}" alt="{{ author.name }}"/>
+        {% else %}
+            <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" />
+        {% endif %}
+            <a href="{{ post.url | relative_url }}" rel = "permalink"><i class="fa fa-fw fa-user" aria-hidden="true"></i><img title = "{{ post.author | default: 'Hedvig' }}">
+            </a>     
+            {{ post.role| default: 'Researcher' }}
+    {% endfor %}
+</figure>
+
+            <!-- <i class="fa fa-fw fa-user" aria-hidden="true"></i>  -->
