@@ -25,14 +25,27 @@
         {% if post.author and site.data.authors[post.author] %}
             {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.author %}
         {% endif %}
-        {% if author.avatar contains "://" %}
-            <img src="{{ author.avatar }}" alt="{{ author.name }}"/>
-        {% else %}
-            <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" />
-        {% endif %}
-            <a href="{{ post.url | relative_url }}" rel = "permalink"><i class="fa fa-fw fa-user" aria-hidden="true"></i><img title = "{{ post.author | default: 'Hedvig' }}">
-            </a>     
-            {{ post.role| default: 'Researcher' }}
+        <div class = "gallery-item">
+            <div class = "item-excerpt">
+                <img src = 
+                    {% if author.avatar contains "://" %}
+                        "{{ author.avatar }}"
+                    {% comment %} <img src="{{ author.avatar }}" alt="{{ author.name }}"/> {% endcomment %}
+                    {% else %}
+                        "{{ author.avatar | prepend: '/images/' | prepend: base_path }}"
+                    {% comment %} <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" /> {% endcomment %}
+                    {% endif %}
+                    alt="{{ author.name }}">
+            </div>
+            <div class = "item-title">
+                <i class="fa fa-fw fa-user" aria-hidden="true"></i>
+                <a href="{{ post.url | relative_url }}" rel = "permalink">{{ post.author | default: 'Hedvig' }}
+                </a>     
+            </div>
+            <div class = "item-caption">
+                <p>{{ post.role| default: 'Researcher' }}</p>
+            </div>
+        </div>
     {% endfor %}
 </figure>
 

@@ -309,14 +309,25 @@ figure {
   }
 
   &.people {
-    > a,
-    > img {
+    .gallery-item {
       @include breakpoint($small) {
         width: calc(25% - 0.5em);
       }
-    }
-      figcaption {
-      width: 100%;
+        .item-excerpt{
+          height: calc(50% - 0.5em) ;
+          overflow: hidden;
+        }
+        .item-title{
+          a{
+            text-align: center;
+            color: inherit ;
+            }
+
+        }
+        .item-caption{
+          font-size: $type-size-7;
+          text-align: left;
+        }
     }
   }
 }
