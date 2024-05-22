@@ -310,24 +310,71 @@ figure {
 
   &.people {
     .gallery-item {
+      .item-title{
+          a{
+            text-align: center;
+            font-weight: bolder;
+            color: inherit;
+            line-height: 2em;
+            margin-bottom: 0;
+            }
+      }
+      .item-caption{
+          text-indent: 1em;
+          text-align: left;
+          font-style: italic;
+          margin-top: 0;
+          color: $title-color;
+        }
+      .item-excerpt{
+        overflow: hidden;
+        border-radius: 0.2em;
+      }
       @include breakpoint($small) {
         width: calc(25% - 0.5em);
-      }
+        
         .item-excerpt{
-          height: calc(50% - 0.5em) ;
-          overflow: hidden;
+          max-height: 120px ;
+
         }
         .item-title{
           a{
-            text-align: center;
-            color: inherit ;
-            }
-
+            font-size: $type-size-6;
+          }
         }
+        
         .item-caption{
           font-size: $type-size-7;
           text-align: left;
         }
+      }
+      @include breakpoint($medium) {
+        width: calc(25% - 0.5em);
+        
+        .item-excerpt{
+          max-height: 160px ;
+          overflow: hidden;
+        }
+        
+        .item-caption{
+          font-size: $type-size-7;
+          text-align: left;
+        }
+      }
+      @include breakpoint($x-large) {
+        width: calc(25% - 0.5em);
+        
+        .item-excerpt{
+          max-height: 200px ;
+          overflow: hidden;
+        }
+        
+        .item-caption{
+          font-size: $type-size-6;
+          text-align: left;
+        }
+      }
+
     }
   }
 }

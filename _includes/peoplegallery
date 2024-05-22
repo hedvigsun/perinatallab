@@ -43,7 +43,7 @@
                 </a>     
             </div>
             <div class = "item-caption">
-                <p>{{ post.role| default: 'Researcher' }}</p>
+                {{ post.role| default: 'Researcher' }}
             </div>
         </div>
     {% endfor %}
