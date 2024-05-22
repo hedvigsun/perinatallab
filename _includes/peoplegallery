@@ -32,18 +32,18 @@
                         "{{ author.avatar }}"
                     {% comment %} <img src="{{ author.avatar }}" alt="{{ author.name }}"/> {% endcomment %}
                     {% else %}
-                        "{{ author.avatar | prepend: '/images/' | prepend: base_path }}"
+                        "{{ author.avatar | default: '/97539278/profilbild_4_orig.jpg' | prepend: '/images/' | prepend: base_path }}"
                     {% comment %} <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" /> {% endcomment %}
                     {% endif %}
                     alt="{{ author.name }}">
             </div>
             <div class = "item-title">
                 <i class="fa fa-fw fa-user" aria-hidden="true"></i>
-                <a href="{{ post.url | relative_url }}" rel = "permalink">{{ post.author | default: 'Hedvig' }}
+                <a href="{{ post.url | relative_url }}" rel = "permalink">{{ author.name | default: 'Hedvig' }}
                 </a>     
             </div>
             <div class = "item-caption">
-                {{ post.role| default: 'Researcher' }}
+                {{ author.role| default: 'Researcher' }}
             </div>
         </div>
     {% endfor %}

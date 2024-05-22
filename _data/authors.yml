@@ -22,3 +22,36 @@ Karin Ytterberg:
   linkedin    : "karin-ytterberg-4221701a1"
   avatar      : "kariny.jpg"
   github      : "ykarin97"
+  role        : "PhD Student"
+
+Ylva Folkesson:
+  name        : "Ylva Folkesson"
+  linkedin    : "ylva-folkesson-4221701a1"
+  avatar      : "/97539278/ylva-folkesson-img-4506_2_orig.jpg"
+  role        : "Unit Manager"
+
+Kristina Karlsson:
+  name        : "Kristina Karlsson"
+  role        : "Administrator"
+  avatar      : "/97539278/kristina-karlsson111_orig.png?1503570793"
+
+Bo Jacobsson:
+  name        : "Bo Jacobsson"
+  role        : "Team Leader"
+  avatar      : "/97539278/bo-jacobsson-img-4512_10.jpg"
+
+Felix Evers:
+  name        : "Felix Evers"
+  role        : "PhD"
+
+Julius Juodakis:
+  name        : "Julius Juodakis"
+  avatar      : "/97539278/julius_1_orig.jpg"
+
+Nina Abersek:
+  name        : "Nina Abersek"
+  avatar      : "/97539278/nina-abersek_orig.jpeg"
+
+Patricia Nyeboe:
+  name        : "Patricia Nyeboe"
+  avatar      : "/97539278/patricia-johansson-dsc-7928_1_orig.jpg"

@@ -246,7 +246,7 @@ figure {
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: justify;
-          justify-content: space-between;
+          justify-content: space-around;
   -webkit-box-align: start;
           align-items: flex-start;
   flex-wrap: wrap;
@@ -324,38 +324,78 @@ figure {
           text-align: left;
           font-style: italic;
           margin-top: 0;
+          margin-bottom: 1em;
           color: $title-color;
         }
       .item-excerpt{
         overflow: hidden;
         border-radius: 0.2em;
       }
-      @include breakpoint($small) {
-        width: calc(25% - 0.5em);
+      @include breakpoint($mobile) {
+        width: calc(80% - 0.5em);
         
         .item-excerpt{
-          max-height: 120px ;
+          max-height: 400px ;
 
+        }
+        .item-title{
+          a{
+            font-size: $type-size-4;
+          }
+        }
+        
+        .item-caption{
+          font-size: $type-size-5;
+          text-align: left;
+        }
+      }
+      @include breakpoint($small) {
+        width: calc(50% - 0.5em);
+        
+        .item-excerpt{
+          max-height: 300px ;
+
+        }
+        .item-title{
+          a{
+            font-size: $type-size-5;
+          }
+        }
+        
+        .item-caption{
+          font-size: $type-size-6;
+          text-align: left;
+        }
+      }
+      @include breakpoint($medium) {
+        width: calc(33% - 0.5em);
+        
+        .item-excerpt{
+          max-height: 250px ;
+          overflow: hidden;
         }
         .item-title{
           a{
             font-size: $type-size-6;
           }
-        }
-        
+        }        
         .item-caption{
           font-size: $type-size-7;
           text-align: left;
         }
       }
-      @include breakpoint($medium) {
-        width: calc(25% - 0.5em);
+      @include breakpoint($large) {
+        width: calc(33% - 0.5em);
         
         .item-excerpt{
-          max-height: 160px ;
+          max-height: 200px ;
           overflow: hidden;
         }
-        
+        .item-title{
+          a{
+            font-size: $type-size-6;
+          }
+        }        
         .item-caption{
           font-size: $type-size-7;
           text-align: left;
