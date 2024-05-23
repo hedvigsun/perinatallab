@@ -93,6 +93,9 @@
   & + p {
     text-indent: 0;
   }
+  & + img{
+    width:auto;
+  }
 }
 
 .archive__item-teaser {
@@ -120,6 +123,19 @@
    ========================================================================== */
 
 .list__item {
+  .archive__item-title{
+    text-align: left;
+    font-size: $type-size-3;
+  }
+  .archive__item-teaser {
+    border-radius: $border-radius;
+    overflow: hidden;
+    text-align: right;
+    & + img {
+      width: 80%;
+    }
+  }
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
