@@ -1,6 +1,6 @@
 ---
 title: "Cohort Based Genetic Studies"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/97539278/genetics-icon_13.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/icons/dna_w_background.png'>"
 collection: research
 
 ---
