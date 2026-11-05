@@ -12,8 +12,8 @@ main:
   - title: "Research"
     url: /research/
     children:
-      - title: "Research areas"
-        url: /research/areasOfRes
+#      - title: "Research areas"
+#        url: /research/areasOfRes
       - title: "Research Areas"
         url: /research/research-areas
 
