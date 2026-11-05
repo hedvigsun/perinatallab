@@ -5,6 +5,9 @@ main:
 
   - title: "About us"
     url: /about-us/
+    children:
+      - title: "Contact"
+        url: /about-us/contact/
 
   - title: "Research"
     url: /research/
@@ -15,18 +18,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /conferences/    
+#  - title: "Conferences"
+#    url: /conferences/    
 
   - title: "People"
     url: /people/    
             
-  - title: "News"
-    url: /year-archive/
+#  - title: "News"
+#    url: /year-archive/
   
-  - title: "Contact"
-    url: /contact/
+#  - title: "Contact"
+#    url: /contact/
   
-  - title: "Media"
-    url: /media/
+#  - title: "Media"
+#    url: /media/
 
