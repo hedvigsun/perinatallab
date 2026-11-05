@@ -1,1 +1,1842 @@
-[]
+[
+  {
+    "title": "Auxin‐related regulation of barley floral organ fate: genetic and phenotypic insights from tweaky spike mutants",
+    "year": 2026,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "New Phytologist",
+    "doi": "10.1111/nph.71533",
+    "url": "https://doi.org/10.1111/nph.71533",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Maternal age-related differences in the timing of pregnancy loss in a nationwide ART cohort",
+    "year": 2026,
+    "month": 10,
+    "day": 5,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.64898/2026.09.28.26364171",
+    "url": "https://doi.org/10.64898/2026.09.28.26364171",
+    "researchers": [
+      {
+        "name": "Felix Evers",
+        "orcid": "0009-0003-2998-4488"
+      },
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Lithuania’s National Digital Health System Architecture, Evolution, and Lessons From a Centralized Approach Using Longitudinal Document Analysis: Descriptive National Case Study",
+    "year": 2026,
+    "month": 9,
+    "day": 2,
+    "type": "journal-article",
+    "journal": "JMIR Formative Research",
+    "doi": "10.2196/91911",
+    "url": "https://doi.org/10.2196/91911",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning-based Prediction of Preterm Birth Using Genetic Data",
+    "year": 2026,
+    "month": 6,
+    "day": 26,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.64898/2026.06.24.26356330",
+    "url": "https://doi.org/10.64898/2026.06.24.26356330",
+    "researchers": [
+      {
+        "name": "Hedvig Sundelin",
+        "orcid": "0009-0005-0457-8920"
+      },
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Temporal trends in preterm birth rate over the last 30 years in Sweden: a population-based study",
+    "year": 2026,
+    "month": 2,
+    "day": 26,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.64898/2026.02.24.26346962",
+    "url": "https://doi.org/10.64898/2026.02.24.26346962",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      },
+      {
+        "name": "Hedvig Sundelin",
+        "orcid": "0009-0005-0457-8920"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Lithuania’s National Digital Health System Architecture, Evolution, and Lessons From a Centralized Approach Using Longitudinal Document Analysis: Descriptive National Case Study (Preprint)",
+    "year": 2026,
+    "month": 1,
+    "day": 24,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.2196/preprints.91911",
+    "url": "https://doi.org/10.2196/preprints.91911",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Early-Life Genetic Determinants of Height and their Time-Dependent Links to Type 2 Diabetes",
+    "year": 2025,
+    "month": 11,
+    "day": 13,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2025.11.10.25339894",
+    "url": "https://doi.org/10.1101/2025.11.10.25339894",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Parity modifies the effect of genetic variants associated with gestational duration and birth weight",
+    "year": 2025,
+    "month": 6,
+    "day": 17,
+    "type": "other",
+    "journal": "",
+    "doi": "10.1101/2025.06.17.25329777",
+    "url": "https://doi.org/10.1101/2025.06.17.25329777",
+    "researchers": [
+      {
+        "name": "Hedvig Sundelin",
+        "orcid": "0009-0005-0457-8920"
+      },
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Data Resource Profile: The Lithuanian health data reuse pathway",
+    "year": 2025,
+    "month": 6,
+    "day": 11,
+    "type": "journal-article",
+    "journal": "International Journal of Epidemiology",
+    "doi": "10.1093/ije/dyaf118",
+    "url": "https://doi.org/10.1093/ije/dyaf118",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Haplotype-based analysis distinguishes maternal-fetal genetic contribution to pregnancy-related outcomes",
+    "year": 2025,
+    "month": 3,
+    "day": 10,
+    "type": "journal-article",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1011575",
+    "url": "https://doi.org/10.1371/journal.pgen.1011575",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Cesarean section and the gestational duration of subsequent pregnancies: A nationwide register-based cohort study",
+    "year": 2025,
+    "month": 2,
+    "day": 5,
+    "type": "journal-article",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0317492",
+    "url": "https://doi.org/10.1371/journal.pone.0317492",
+    "researchers": [
+      {
+        "name": "Felix Evers",
+        "orcid": "0009-0003-2998-4488"
+      },
+      {
+        "name": "Karin Ytterberg",
+        "orcid": "0000-0002-4314-1546"
+      }
+    ]
+  },
+  {
+    "title": "The influence of fetal sex on maternal blood pressure in pregnancy",
+    "year": 2025,
+    "month": 1,
+    "day": 29,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2025.01.28.25321287",
+    "url": "https://doi.org/10.1101/2025.01.28.25321287",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide analyses of neonatal jaundice reveal a marked departure from adult bilirubin metabolism",
+    "year": 2024,
+    "month": 8,
+    "day": 30,
+    "type": "journal-article",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-51947-w",
+    "url": "https://doi.org/10.1038/s41467-024-51947-w",
+    "researchers": [
+      {
+        "name": "Karin Ytterberg",
+        "orcid": "0000-0002-4314-1546"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide association meta-analysis identifies five loci associated with postpartum hemorrhage",
+    "year": 2024,
+    "month": 8,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature Genetics",
+    "doi": "10.1038/s41588-024-01839-y",
+    "url": "https://doi.org/10.1038/s41588-024-01839-y",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Author Correction: Characterization of the genetic architecture of infant and early childhood body mass index",
+    "year": 2024,
+    "month": 2,
+    "day": 9,
+    "type": "journal-article",
+    "journal": "Nature Metabolism",
+    "doi": "10.1038/s42255-024-01004-z",
+    "url": "https://doi.org/10.1038/s42255-024-01004-z",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Beyond chromosomal abnormalities: deciphering the genetic drivers of miscarriage",
+    "year": 2023,
+    "month": 11,
+    "day": 20,
+    "type": "data-management-plan",
+    "journal": "",
+    "doi": "10.48321/d1k37x",
+    "url": "https://doi.org/10.48321/d1k37x",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth",
+    "year": 2023,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature Genetics",
+    "doi": "10.1038/s41588-023-01520-w",
+    "url": "https://doi.org/10.1038/s41588-023-01520-w",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Pregnancy-Associated Bleeding and Genetics: Five Sequence Variants in the Myometrium and Progesterone Signaling Pathway are associated with postpartum hemorrhage",
+    "year": 2023,
+    "month": 8,
+    "day": 15,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2023.08.10.23293932",
+    "url": "https://doi.org/10.1101/2023.08.10.23293932",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Cyclic descents for Motzkin paths",
+    "year": 2023,
+    "month": 8,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Discrete Mathematics",
+    "doi": "10.1016/j.disc.2023.113475",
+    "url": "https://doi.org/10.1016/j.disc.2023.113475",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Time-varying effects are common in genetic control of gestational duration",
+    "year": 2023,
+    "month": 7,
+    "day": 4,
+    "type": "journal-article",
+    "journal": "Human Molecular Genetics",
+    "doi": "10.1093/hmg/ddad086",
+    "url": "https://doi.org/10.1093/hmg/ddad086",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Karin Ytterberg",
+        "orcid": "0000-0002-4314-1546"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Author Correction: Genetic effects on the timing of parturition and links to fetal birth weight",
+    "year": 2023,
+    "month": 7,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature Genetics",
+    "doi": "10.1038/s41588-023-01412-z",
+    "url": "https://doi.org/10.1038/s41588-023-01412-z",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Capture-recapture for -omics data meta-analysis",
+    "year": 2023,
+    "month": 4,
+    "day": 25,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2023.04.24.537481",
+    "url": "https://doi.org/10.1101/2023.04.24.537481",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Genetic effects on the timing of parturition and links to fetal birth weight",
+    "year": 2023,
+    "month": 4,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature Genetics",
+    "doi": "10.1038/s41588-023-01343-9",
+    "url": "https://doi.org/10.1038/s41588-023-01343-9",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Exploring the impact of parity and its interaction with history of preterm delivery on gestational duration",
+    "year": 2023,
+    "month": 2,
+    "day": 23,
+    "type": "preprint",
+    "journal": "MedRxiv",
+    "doi": "10.1101/2023.02.16.23286023",
+    "url": "https://doi.org/10.1101/2023.02.16.23286023",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Time-varying effects are common in genetic control of gestational duration",
+    "year": 2023,
+    "month": 2,
+    "day": 10,
+    "type": "preprint",
+    "journal": "MedRxiv",
+    "doi": "10.1101/2023.02.07.23285609",
+    "url": "https://doi.org/10.1101/2023.02.07.23285609",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Epidemic changepoint detection in the presence of nuisance changes",
+    "year": 2023,
+    "month": 2,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Statistical Papers",
+    "doi": "10.1007/s00362-022-01307-x",
+    "url": "https://doi.org/10.1007/s00362-022-01307-x",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "New genetic loci associated with gestational duration show a complex link with birth weight",
+    "year": 2023,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature Genetics",
+    "doi": "10.1038/s41588-023-01344-8",
+    "url": "https://doi.org/10.1038/s41588-023-01344-8",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Exploring the association of parity and its interaction with history of preterm delivery on gestational duration",
+    "year": 2023,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Annals of Epidemiology",
+    "doi": "10.1016/j.annepidem.2023.09.004",
+    "url": "https://doi.org/10.1016/j.annepidem.2023.09.004",
+    "researchers": [
+      {
+        "name": "Karin Ytterberg",
+        "orcid": "0000-0002-4314-1546"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide analyses of neonatal jaundice reveal a marked departure from adult bilirubin metabolism",
+    "year": 2022,
+    "month": 12,
+    "day": 14,
+    "type": "preprint",
+    "journal": "MedRxiv",
+    "doi": "10.1101/2022.12.14.22283348",
+    "url": "https://doi.org/10.1101/2022.12.14.22283348",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation",
+    "year": 2022,
+    "month": 10,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2022.10.05.22279072",
+    "url": "https://doi.org/10.1101/2022.10.05.22279072",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Wind‐robust sound event detection and denoising for bioacoustics",
+    "year": 2022,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Methods in Ecology and Evolution",
+    "doi": "10.1111/2041-210x.13928",
+    "url": "https://doi.org/10.1111/2041-210x.13928",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Pregnancy homocysteine and cobalamin status predict childhood metabolic health in the offspring.",
+    "year": 2022,
+    "month": 5,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Pediatric research",
+    "doi": "10.1038/s41390-022-02117-5",
+    "url": "https://doi.org/10.1038/s41390-022-02117-5",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Interrogating the causal effects of maternal circulating CRP on gestational duration and birth weight",
+    "year": 2022,
+    "month": 5,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2022.05.16.22275164",
+    "url": "https://doi.org/10.1101/2022.05.16.22275164",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Genetic effects on the timing of parturition and links to fetal birth weight",
+    "year": 2022,
+    "month": 5,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2022.05.04.22274624",
+    "url": "https://doi.org/10.1101/2022.05.04.22274624",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Characterization of the genetic architecture of infant and early childhood body mass index.",
+    "year": 2022,
+    "month": 3,
+    "day": 21,
+    "type": "journal-article",
+    "journal": "Nature metabolism",
+    "doi": "10.1038/s42255-022-00549-1",
+    "url": "https://doi.org/10.1038/s42255-022-00549-1",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Placental weight centiles adjusted for age, parity and fetal sex",
+    "year": 2022,
+    "month": 1,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Placenta",
+    "doi": "10.1016/j.placenta.2021.10.011",
+    "url": "https://doi.org/10.1016/j.placenta.2021.10.011",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Equidistributions Around Special Kinds of Descents and Excedances Via Continued Fractions",
+    "year": 2022,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Seminaire Lotharingien de Combinatoire",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85161494156&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "(p, q, t)-CATALAN CONTINUED FRACTIONS, GAMMA EXPANSIONS AND PATTERN AVOIDANCES",
+    "year": 2022,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85163746604&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "A changepoint prefilter for sound event detection in long-term bioacoustic recordings",
+    "year": 2021,
+    "month": 10,
+    "day": null,
+    "type": "journal-article",
+    "journal": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/10.0006534",
+    "url": "https://doi.org/10.1121/10.0006534",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Precision as a metric for acoustic survey design using occupancy or spatial capture-recapture",
+    "year": 2021,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Environmental and Ecological Statistics",
+    "doi": "10.1007/s10651-021-00513-4",
+    "url": "https://doi.org/10.1007/s10651-021-00513-4",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity",
+    "year": 2021,
+    "month": 5,
+    "day": 7,
+    "type": "other",
+    "journal": "medRxiv",
+    "doi": "10.1101/2021.05.04.21256508",
+    "url": "https://doi.org/10.1101/2021.05.04.21256508",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "The γ-positive coefficients arising in segmented permutations",
+    "year": 2021,
+    "month": 5,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Discrete Mathematics",
+    "doi": "10.1016/j.disc.2021.112336",
+    "url": "https://doi.org/10.1016/j.disc.2021.112336",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring trios",
+    "year": 2021,
+    "month": 2,
+    "day": 4,
+    "type": "journal-article",
+    "journal": "Human molecular genetics",
+    "doi": "10.1093/hmg/ddaa255",
+    "url": "https://doi.org/10.1093/hmg/ddaa255",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "The orexigenic force of olfactory palatable food cues in sated rats",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "bioRxiv",
+    "doi": "10.1101/2021.07.06.451251",
+    "url": "https://doi.org/10.1101/2021.07.06.451251",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "The orexigenic force of olfactory palatable food cues in rats",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu13093101",
+    "url": "https://doi.org/10.3390/nu13093101",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Some Multivariate Polynomials For Doubled Permutations",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Electronic Research Archive",
+    "doi": "10.3934/era.2020098",
+    "url": "https://doi.org/10.3934/era.2020098",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Maternal dietary selenium intake during pregnancy is associated with higher birth weight and lower risk of small for gestational age births in the norwegian mother, father and child cohort study",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu13010023",
+    "url": "https://doi.org/10.3390/nu13010023",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Maternal dietary selenium intake during pregnancy and neonatal outcomes in the norwegian mother, father, and child cohort study",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu13041239",
+    "url": "https://doi.org/10.3390/nu13041239",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Maternal caffeine intake during pregnancy and child neurodevelopment up to eight years of age—Results from the Norwegian Mother, Father and Child Cohort Study",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "European Journal of Nutrition",
+    "doi": "10.1007/s00394-020-02280-7",
+    "url": "https://doi.org/10.1007/s00394-020-02280-7",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Gamma-positivity of derangement polynomials and binomial Eulerian polynomials for colored permutations",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Combinatorial Theory. Series A",
+    "doi": "10.1016/j.jcta.2021.105459",
+    "url": "https://doi.org/10.1016/j.jcta.2021.105459",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Equidistributions of mesh patterns of length two and Kitaev and Zhang's conjectures",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Advances in Applied Mathematics",
+    "doi": "10.1016/j.aam.2020.102149",
+    "url": "https://doi.org/10.1016/j.aam.2020.102149",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Equidistributions of mesh patterns of length two",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Seminaire Lotharingien de Combinatoire",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85161449812&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "EQUIDISTRIBUTIONS AROUND SPECIAL KINDS OF DESCENTS AND EXCEDANCES",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "SIAM Journal on Discrete Mathematics",
+    "doi": "10.1137/21m1414541",
+    "url": "https://doi.org/10.1137/21m1414541",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Equidistributions around special kinds of descents and excedances",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85104220675&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "CYCLIC DESCENTS FOR MOTZKIN PATHS",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "10.48550/arxiv.2104.03774",
+    "url": "https://doi.org/10.48550/arxiv.2104.03774",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "A Prospective Study of Maternal Exposure to Smoking during Pregnancy and Behavioral Development in the Child",
+    "year": 2021,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Child and Family Studies",
+    "doi": "10.1007/s10826-021-01978-4",
+    "url": "https://doi.org/10.1007/s10826-021-01978-4",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "The genetic architecture of sporadic and multiple consecutive miscarriage.",
+    "year": 2020,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nature communications",
+    "doi": "10.1038/s41467-020-19742-5",
+    "url": "https://doi.org/10.1038/s41467-020-19742-5",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Precision as a metric for acoustic survey design using occupancy or spatial capture-recapture",
+    "year": 2020,
+    "month": 10,
+    "day": 2,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2020.09.30.321521",
+    "url": "https://doi.org/10.1101/2020.09.30.321521",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Protein Concentrations of Thrombospondin-1, MIP-1β, and S100A8 Suggest the Reflection of a Pregnancy Clock in Mid-Trimester Amniotic Fluid.",
+    "year": 2020,
+    "month": 10,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+    "doi": "10.1007/s43032-020-00229-z",
+    "url": "https://doi.org/10.1007/s43032-020-00229-z",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Dissecting maternal and fetal genetic effects underlying the associations between maternal phenotypes, birth outcomes, and adult phenotypes: A mendelian-randomization and haplotype-based genetic score analysis in 10,734 mother–infant pairs",
+    "year": 2020,
+    "month": 8,
+    "day": 25,
+    "type": "journal-article",
+    "journal": "PLoS Medicine",
+    "doi": "10.1371/journal.pmed.1003305",
+    "url": "https://doi.org/10.1371/journal.pmed.1003305",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring trios.",
+    "year": 2020,
+    "month": 6,
+    "day": 26,
+    "type": "other",
+    "journal": "medRxiv",
+    "doi": "10.1101/2020.06.25.20140103",
+    "url": "https://doi.org/10.1101/2020.06.25.20140103",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Haplotype-based heritability estimations reveal gestational duration as a maternal trait and fetal size measurements at birth as fetal traits in human pregnancy",
+    "year": 2020,
+    "month": 5,
+    "day": 14,
+    "type": "other",
+    "journal": "bioRxiv",
+    "doi": "10.1101/2020.05.12.079863",
+    "url": "https://doi.org/10.1101/2020.05.12.079863",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Novel haplotypes responsible for prenatal death in Nordic Red and Danish Jersey cattle",
+    "year": 2020,
+    "month": 5,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Dairy Science",
+    "doi": "10.3168/jds.2019-17831",
+    "url": "https://doi.org/10.3168/jds.2019-17831",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Wavelet Screening: a novel approach to analysing GWAS data",
+    "year": 2020,
+    "month": 3,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/2020.03.24.006163",
+    "url": "https://doi.org/10.1101/2020.03.24.006163",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Wavelet filters for automated recognition of birdsong in long‐time field recordings",
+    "year": 2020,
+    "month": 3,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Methods in Ecology and Evolution",
+    "doi": "10.1111/2041-210x.13357",
+    "url": "https://doi.org/10.1111/2041-210x.13357",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Importance of the environment for gestational duration variability and correlation between relatives - results from the Medical Swedish Birth Registry, 1973-2012",
+    "year": 2020,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0236494",
+    "url": "https://doi.org/10.1371/journal.pone.0236494",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Eulerian polynomials and excedance statistics",
+    "year": 2020,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Advances in Applied Mathematics",
+    "doi": "10.1016/j.aam.2020.102092",
+    "url": "https://doi.org/10.1016/j.aam.2020.102092",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Equidistributions of mesh patterns of length two and Kitaev and Zhang's conjectures",
+    "year": 2020,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85095524862&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Changes in data management contribute to temporal variation in gestational duration distribution in the Swedish Medical Birth Registry",
+    "year": 2020,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0241911",
+    "url": "https://doi.org/10.1371/journal.pone.0241911",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Haplotypes responsible for early embryonic lethality detected in Nordic Holsteins",
+    "year": 2019,
+    "month": 12,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Dairy Science",
+    "doi": "10.3168/jds.2019-16651",
+    "url": "https://doi.org/10.3168/jds.2019-16651",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide association study reveals dynamic role of genetic variation in infant and early childhood growth.",
+    "year": 2019,
+    "month": 10,
+    "day": 1,
+    "type": "journal-article",
+    "journal": "Nature communications",
+    "doi": "10.1038/s41467-019-12308-0",
+    "url": "https://doi.org/10.1038/s41467-019-12308-0",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 associate with gestational duration.",
+    "year": 2019,
+    "month": 9,
+    "day": 2,
+    "type": "journal-article",
+    "journal": "Nature communications",
+    "doi": "10.1038/s41467-019-11881-8",
+    "url": "https://doi.org/10.1038/s41467-019-11881-8",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Delivery outcome after trial of labor in nulliparous women 40 years or older—A nationwide population‐based study",
+    "year": 2019,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+    "doi": "10.1111/aogs.13614",
+    "url": "https://doi.org/10.1111/aogs.13614",
+    "researchers": [
+      {
+        "name": "Bo Jacobsso",
+        "orcid": "0000-0001-5079-2374"
+      }
+    ]
+  },
+  {
+    "title": "Haplotype genetic score analysis in 10,734 mother/infant pairs reveals complex maternal and fetal genetic effects underlying the associations between maternal phenotypes, birth outcomes and adult phenotypes",
+    "year": 2019,
+    "month": 8,
+    "day": 15,
+    "type": "journal-article",
+    "journal": "biorXiv",
+    "doi": "10.1101/737106",
+    "url": "https://doi.org/10.1101/737106",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      },
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "The genetic architecture of sporadic and recurrent miscarriage",
+    "year": 2019,
+    "month": 3,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/575167",
+    "url": "https://doi.org/10.1101/575167",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "The effect of prenatal smoke exposure on child neuropsychological function: a prospective mother-child cohort study.",
+    "year": 2019,
+    "month": 2,
+    "day": 19,
+    "type": "journal-article",
+    "journal": "Journal of reproductive and infant psychology",
+    "doi": "10.1080/02646838.2019.1580350",
+    "url": "https://doi.org/10.1080/02646838.2019.1580350",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Geographical differences in preterm delivery rates in Sweden: A population‐based cohort study",
+    "year": 2019,
+    "month": 1,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+    "doi": "10.1111/aogs.13455",
+    "url": "https://doi.org/10.1111/aogs.13455",
+    "researchers": [
+      {
+        "name": "Bo Jacobsso",
+        "orcid": "0000-0001-5079-2374"
+      },
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Eulerian polynomials and excedance statistics",
+    "year": 2019,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85094411829&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "(q,t)-Catalan numbers: gamma expansions, pattern avoidances, and the (−1)-phenomenon",
+    "year": 2019,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Advances in Applied Mathematics",
+    "doi": "10.1016/j.aam.2019.01.009",
+    "url": "https://doi.org/10.1016/j.aam.2019.01.009",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth",
+    "year": 2018,
+    "month": 11,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/478255",
+    "url": "https://doi.org/10.1101/478255",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Associations between maternal dietary patterns and infant birth weight, small and large for gestational age in the Norwegian Mother and Child Cohort Study.",
+    "year": 2018,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "European journal of clinical nutrition",
+    "doi": "10.1038/s41430-018-0356-y",
+    "url": "https://doi.org/10.1038/s41430-018-0356-y",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Uterine distention as a factor in birth timing: retrospective nationwide cohort study in Sweden.",
+    "year": 2018,
+    "month": 10,
+    "day": null,
+    "type": "journal-article",
+    "journal": "BMJ open",
+    "doi": "10.1136/bmjopen-2018-022929",
+    "url": "https://doi.org/10.1136/bmjopen-2018-022929",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration",
+    "year": 2018,
+    "month": 9,
+    "day": null,
+    "type": "preprint",
+    "journal": "",
+    "doi": "10.1101/423897",
+    "url": "https://doi.org/10.1101/423897",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Genetic studies of gestational duration and preterm birth.",
+    "year": 2018,
+    "month": 6,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+    "doi": "10.1016/j.bpobgyn.2018.05.003",
+    "url": "https://doi.org/10.1016/j.bpobgyn.2018.05.003",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Early pregnancy folate-cobalamin interactions and their effects on cobalamin status and hematologic variables throughout pregnancy",
+    "year": 2018,
+    "month": 2,
+    "day": 1,
+    "type": "journal-article",
+    "journal": "The American Journal of Clinical Nutrition",
+    "doi": "10.1093/ajcn/nqx041",
+    "url": "https://doi.org/10.1093/ajcn/nqx041",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "λ-Euler’s difference table for colored permutations",
+    "year": 2018,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Electronic Journal of Combinatorics",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85056301803&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "(q, t)-catalan numbers: Gamma expansions, pattern avoidance and the (-1)-phenomenon",
+    "year": 2018,
+    "month": null,
+    "day": null,
+    "type": "other",
+    "journal": "arXiv",
+    "doi": "",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85094280081&partnerID=MN8TOARS",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
+    "title": "A family-based genome-wide association study of chronic rhinosinusitis with nasal polyps implicates several genes in the disease pathogenesis.",
+    "year": 2017,
+    "month": 12,
+    "day": null,
+    "type": "journal-article",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0185244",
+    "url": "https://doi.org/10.1371/journal.pone.0185244",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Cobalamin Status from Pregnancy to Early Childhood: Lessons from Global Experience",
+    "year": 2017,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Advances in Nutrition: An International Review Journal",
+    "doi": "10.3945/an.117.015628",
+    "url": "https://doi.org/10.3945/an.117.015628",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Genetic Associations with Gestational Duration and Spontaneous Preterm Birth.",
+    "year": 2017,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "The New England journal of medicine",
+    "doi": "10.1056/nejmoa1612665",
+    "url": "https://doi.org/10.1056/nejmoa1612665",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Association analysis for young stock survival index with imputed whole-genome sequence variants in Nordic Holstein cattle",
+    "year": 2017,
+    "month": 8,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Dairy Science",
+    "doi": "10.3168/jds.2017-12688",
+    "url": "https://doi.org/10.3168/jds.2017-12688",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Time-Variant Genetic Effects as a Cause for Preterm Birth: Insights from a Population of Maternal Cousins in Sweden.",
+    "year": 2017,
+    "month": 4,
+    "day": null,
+    "type": "journal-article",
+    "journal": "G3 (Bethesda, Md.)",
+    "doi": "10.1534/g3.116.038612",
+    "url": "https://doi.org/10.1534/g3.116.038612",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Cobalamin – folate interactions",
+    "year": 2017,
+    "month": 1,
+    "day": 11,
+    "type": "book-chapter",
+    "journal": "Vitamin B12: advances and insights",
+    "doi": "",
+    "url": "https://orcid.org/0000-0002-3326-266X",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Cobalamin during pregnancy and lactation.",
+    "year": 2017,
+    "month": 1,
+    "day": 11,
+    "type": "book-chapter",
+    "journal": "Vitamin B12: advances and insights",
+    "doi": "10.1201/9781315119540",
+    "url": "https://doi.org/10.1201/9781315119540",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "A 0.5-Mbp deletion on bovine chromosome 23 is a strong candidate for stillbirth in Nordic Red cattle",
+    "year": 2016,
+    "month": 12,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Genetics Selection Evolution",
+    "doi": "10.1186/s12711-016-0215-z",
+    "url": "https://doi.org/10.1186/s12711-016-0215-z",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Association analysis for feet and legs disorders with whole-genome sequence variants in 3 dairy cattle breeds",
+    "year": 2016,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Dairy Science",
+    "doi": "10.3168/jds.2015-10705",
+    "url": "https://doi.org/10.3168/jds.2015-10705",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Literature-Informed Analysis of a Genome-Wide Association Study of Gestational Age in Norwegian Women and Children Suggests Involvement of Inflammatory Pathways.",
+    "year": 2016,
+    "month": 8,
+    "day": null,
+    "type": "journal-article",
+    "journal": "PloS one",
+    "doi": "10.1371/journal.pone.0160335",
+    "url": "https://doi.org/10.1371/journal.pone.0160335",
+    "researchers": [
+      {
+        "name": "Julius Juodakis",
+        "orcid": "0000-0001-5600-974X"
+      }
+    ]
+  },
+  {
+    "title": "Maternal folate status and the BHMT c.716g&gt;A polymorphism affect the betaine dimethylglycine pathway during pregnancy",
+    "year": 2016,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu8100621",
+    "url": "https://doi.org/10.3390/nu8100621",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Early pregnancy B vitamin status, one carbon metabolism, pregnancy outcome and child development",
+    "year": 2016,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Biochimie",
+    "doi": "10.1016/j.biochi.2015.12.003",
+    "url": "https://doi.org/10.1016/j.biochi.2015.12.003",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Association analysis for udder health based on SNP-panel and sequence data in Danish Holsteins",
+    "year": 2015,
+    "month": 12,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Genetics Selection Evolution",
+    "doi": "10.1186/s12711-015-0129-1",
+    "url": "https://doi.org/10.1186/s12711-015-0129-1",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Impact of relationships between test and training animals and among training animals on reliability of genomic prediction",
+    "year": 2015,
+    "month": 10,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Animal Breeding and Genetics",
+    "doi": "10.1111/jbg.12165",
+    "url": "https://doi.org/10.1111/jbg.12165",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Effect of polymorphisms in the CSN3 (κ-casein) gene on milk production traits in Chinese Holstein Cattle",
+    "year": 2014,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Molecular Biology Reports",
+    "doi": "10.1007/s11033-014-3648-x",
+    "url": "https://doi.org/10.1007/s11033-014-3648-x",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Genome Wide Association Study Identifies 20 Novel Promising Genes Associated with Milk Fatty Acid Traits in Chinese Holstein",
+    "year": 2014,
+    "month": 5,
+    "day": 23,
+    "type": "journal-article",
+    "journal": "PLoS ONE",
+    "doi": "10.1371/journal.pone.0096186",
+    "url": "https://doi.org/10.1371/journal.pone.0096186",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Effect of<i>FASN</i>gene on milk yield and milk composition in the Chinese Holstein dairy population",
+    "year": 2014,
+    "month": 2,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Animal Genetics",
+    "doi": "10.1111/age.12089",
+    "url": "https://doi.org/10.1111/age.12089",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Genome wide association studies for body conformation traits in the Chinese Holstein cattle population",
+    "year": 2013,
+    "month": 12,
+    "day": null,
+    "type": "journal-article",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/1471-2164-14-897",
+    "url": "https://doi.org/10.1186/1471-2164-14-897",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Genetic effects of ABCG2 polymorphism on milk production traits in the Chinese Holstein cattle",
+    "year": 2013,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Journal of Applied Animal Research",
+    "doi": "10.1080/09712119.2013.782873",
+    "url": "https://doi.org/10.1080/09712119.2013.782873",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Long Term Pregnancy Plasma and Red Cell Folate Response to First Trimester Folic Acid Supplementation",
+    "year": 2013,
+    "month": null,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Annals of Nutrition and Metabolism",
+    "doi": "",
+    "url": "https://publons.com/wos-op/publon/60630868/",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  },
+  {
+    "title": "Genetic effects of stearoyl-coenzyme A desaturase (SCD) polymorphism on milk production traits in the Chinese dairy population",
+    "year": 2012,
+    "month": 9,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Molecular Biology Reports",
+    "doi": "10.1007/s11033-012-1733-6",
+    "url": "https://doi.org/10.1007/s11033-012-1733-6",
+    "researchers": [
+      {
+        "name": "Xiaoping Wu",
+        "orcid": "0000-0002-7844-1397"
+      }
+    ]
+  },
+  {
+    "title": "Cobalamin after birth and during early life",
+    "year": null,
+    "month": null,
+    "day": null,
+    "type": "book-chapter",
+    "journal": "Vitamin B12: advances and insights",
+    "doi": "",
+    "url": "https://orcid.org/0000-0002-3326-266X",
+    "researchers": [
+      {
+        "name": "Pol Sole Navais",
+        "orcid": "0000-0002-3326-266X"
+      }
+    ]
+  }
+]
