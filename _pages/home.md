@@ -6,7 +6,7 @@ title: "Home"
 author_profile: true
 header:
   overlay_color: "#ffff"
-  overlay_image: "background/lab_background.jpg"
+  overlay_image: "background/lab_background.jpeg"
 redirect_from: 
   - /
   - /home.html
@@ -34,7 +34,7 @@ feature_row:
     url: "/research/biomarkers/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /icon/apple.png
+  - image_path: /icons/apple.png
     alt: "nutrition"
     title: "Nutrition"
     excerpt: "Cohort Based"
