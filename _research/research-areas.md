@@ -19,7 +19,7 @@ In gene–environment interaction studies, we aim to identify women whose geneti
 
 **Researchers listed on the previous website:** Chris Flately and Pol Solé Navais.
 
-![DNA illustration](/perinatallab/images/icons/dna_w_background.png)
+![DNA illustration](/images/icons/dna_w_background.png)
 
 [View all publications](/publications/)
 
@@ -29,7 +29,7 @@ We explore incidence and prevalence rates, comorbidities, and heritability estim
 
 **Researchers listed on the previous website:** Verena Sengpiel, Linda Englund-Ögge, Patricia Johansson, Mahsa Nordqvist, and Tomas Fritz.
 
-![Statistics illustration](/perinatallab/images/icons/stat_w_background.png)
+![Statistics illustration](/images/icons/stat_w_background.png)
 
 [View all publications](/publications/)
 
@@ -39,7 +39,7 @@ Our biomarker studies have examined proteins and inflammatory markers in materna
 
 <!-- Editorial note: The original Biomarker Studies paragraph repeated the Nutritional Studies text. This replacement is a short summary derived from the original publication titles; confirm or replace it before publishing. -->
 
-![Laboratory illustration](/perinatallab/images/icons/lab_w_background.png)
+![Laboratory illustration](/images/icons/lab_w_background.png)
 
 [View all publications](/publications/)
 
@@ -49,7 +49,7 @@ Our large cohort of women provides opportunities to study nutrition during pregn
 
 **Researchers listed on the previous website:** Verena Sengpiel, Linda Englund-Ögge, Malin Barman, and Mahsa Nordqvist.
 
-![Nutrition illustration](/perinatallab/images/icons/apple_w_background.png)
+![Nutrition illustration](/images/icons/apple_w_background.png)
 
 [View all publications](/publications/)
 
@@ -61,7 +61,7 @@ The Nordic Network of Fetal Medicine (NNFM) held a meeting at Sahlgrenska Univer
 
 For more information, visit [nnfm.org](http://www.nnfm.org/).
 
-![Nordic Network of Fetal Medicine](/perinatallab/images/97539278/edited/329592786_7.jpg)
+![Nordic Network of Fetal Medicine](/images/97539278/edited/329592786_7.jpg)
 
 ### European Spontaneous Preterm Birth Congress
 
@@ -71,7 +71,7 @@ The meeting aimed to give the international scientific community an opportunity 
 
 For more information, visit [espbc.eu](http://www.espbc.eu/).
 
-![European Spontaneous Preterm Birth Congress](/perinatallab/images/97539278/418719024_6.png)
+![European Spontaneous Preterm Birth Congress](/images/97539278/418719024_6.png)
 
 ### FIGO and March of Dimes
 
@@ -79,7 +79,7 @@ The group has collaborated with the leadership of the International Federation o
 
 For more information, visit [FIGO](http://www.figo.org/) and [March of Dimes](https://www.marchofdimes.org/).
 
-![FIGO and March of Dimes](/perinatallab/images/97539278/704486590_5.jpg)
+![FIGO and March of Dimes](/images/97539278/704486590_5.jpg)
 
 ## Partnerships {#partnerships}
 
