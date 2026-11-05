@@ -50,11 +50,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -94,30 +89,13 @@ author:
   email            :
   researchgate     :  "https://www.researchgate.net/lab/Bo-Jacobsson-Lab" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "perinatalLab"
-  google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "perinatallab"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
 
 
@@ -189,13 +167,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   conferences:
-    output: true
+    output: false
     permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
   media:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
