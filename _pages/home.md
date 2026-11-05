@@ -60,7 +60,7 @@ feature_row:
             </p>
           </td>
           <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
-            <img align="right" src="/images/people/group.png" width=auto style="padding: 15px 15px">
+            <img align="right" src="/images/people/group.jpg" width=auto style="padding: 15px 15px">
           </td>
         </tr>
       </tbody>
