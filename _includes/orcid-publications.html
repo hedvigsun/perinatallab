@@ -1,0 +1,36 @@
+{% comment %}
+Place {% include orcid-publications.html %} in the Publications page template.
+Works are pre-rendered from _data/orcid_publications.json by GitHub Actions.
+{% endcomment %}
+<section class="orcid-publications">
+  <h2>Publications from our researchers' ORCID records</h2>
+  <p><small>This list is updated automatically from public ORCID profiles; metadata comes from those profiles.</small></p>
+  {% assign publications = site.data.orcid_publications %}
+  {% if publications and publications.size > 0 %}
+    {% assign last_year = '' %}
+    {% for publication in publications %}
+      {% assign year_label = publication.year | default: 'Year not listed' %}
+      {% if year_label != last_year %}
+        <h3>{{ year_label }}</h3>
+        {% assign last_year = year_label %}
+      {% endif %}
+      <div class="orcid-work" style="margin-bottom:1.4em;">
+        <strong><a href="{{ publication.url | escape }}" target="_blank" rel="noopener noreferrer">{{ publication.title | escape }}</a></strong>
+        <div>
+          <small>
+            {{ publication.type | replace: '-', ' ' | capitalize }}
+            {% if publication.journal != '' %} · <em>{{ publication.journal | escape }}</em>{% endif %}
+            {% if publication.doi != '' %} · DOI: <a href="https://doi.org/{{ publication.doi | escape }}">{{ publication.doi | escape }}</a>{% endif %}
+          </small>
+        </div>
+        <div><small>Group members:
+          {% for person in publication.researchers %}
+            <a href="https://orcid.org/{{ person.orcid | escape }}">{{ person.name | escape }}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </small></div>
+      </div>
+    {% endfor %}
+  {% else %}
+    <p>No ORCID publications have been imported yet.</p>
+  {% endif %}
+</section>

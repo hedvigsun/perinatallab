@@ -1,0 +1,63 @@
+name: Update ORCID publications
+
+on:
+  schedule:
+    - cron: '23 5 * * *'  # 05:23 UTC daily
+  workflow_dispatch:
+
+# The repository default branch and Pages publishing branch are both `local`.
+# Commits made with GITHUB_TOKEN do not automatically trigger a Pages build,
+# so we explicitly request one via the REST API after saving the data.
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: orcid-publications-local
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/local'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch local
+        uses: actions/checkout@v4
+        with:
+          ref: local
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check import logic
+        run: python -m unittest discover -s tests -v
+
+      - name: Download public ORCID works
+        env:
+          ORCID_CLIENT_ID: ${{ secrets.ORCID_CLIENT_ID }}
+          ORCID_CLIENT_SECRET: ${{ secrets.ORCID_CLIENT_SECRET }}
+        run: python scripts/update_orcid_publications.py
+
+      - name: Commit updates to local
+        id: commit
+        shell: bash
+        run: |
+          if git diff --quiet -- _data/orcid_publications.json; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+            echo 'No publication changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _data/orcid_publications.json
+          git commit -m 'Update publications from ORCID'
+          git push origin HEAD:local
+          echo 'changed=true' >> "$GITHUB_OUTPUT"
+
+      - name: Request GitHub Pages rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
