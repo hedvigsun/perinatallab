@@ -6,35 +6,35 @@ title: "Home"
 author_profile: true
 header:
   overlay_color: "#ffff"
-  overlay_image: "97539278/background-images/71917152.jpg"
+  overlay_image: "background-images/71917152.jpg"
 redirect_from: 
   - /
   - /home.html
 banner: "Our Main"
 banner_excerpt: "Fields of Research"
 feature_row:
-  - image_path: /97539278/rityta-3_1_orig.png
+  - image_path: /icons/dna.png
     alt: "genetics"
     title: "Genetics"
     excerpt: "Cohort Based"
     url: "/research/genetics/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /97539278/rityta-3-kopia_orig.png
+  - image_path: /icons/petri.png
     alt: "epidemiology"
     title: "Epidemiology"
     excerpt: "Register Based"
     url: "/research/epidemiology/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /97539278/rityta-3-kopia-2_orig.png
+  - image_path: /icons/stat.png
     alt: "biomarkers"
     title: "Biomarkers"
     excerpt: "Cohort Based"
     url: "/research/biomarkers/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /97539278/rityta-3-kopia-3_orig.png
+  - image_path: /icon/apple.png
     alt: "nutrition"
     title: "Nutrition"
     excerpt: "Cohort Based"
@@ -60,7 +60,7 @@ feature_row:
             </p>
           </td>
           <td class="wsite-multicol-col" style="width:66.363636363636%; padding:0 15px;">
-            <img align="right" src="/images/97539278/perinatallab-alla_1_orig.png" width=auto style="padding: 15px 15px">
+            <img align="right" src="/images/people/group.png" width=auto style="padding: 15px 15px">
           </td>
         </tr>
       </tbody>
