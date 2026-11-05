@@ -8,7 +8,7 @@ Our main focus is to understand and describe different aspects of the preterm de
 
 We also explore epidemiological relationships associated with preterm delivery and child outcomes, and develop and test methods to improve fetal medicine.
 
-![Blood sample in a laboratory](/stock/bloodsample.jpg)
+![Blood sample in a laboratory](stock/bloodsample.jpg)
 
 
 ## Cohort-Based Genetic Studies {#genetic}
