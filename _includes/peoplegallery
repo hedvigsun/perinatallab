@@ -32,8 +32,8 @@
                         "{{ author.avatar }}"
                     {% comment %} <img src="{{ author.avatar }}" alt="{{ author.name }}"/> {% endcomment %}
                     {% else %}
-                        "{{ author.avatar | default: '/97539278/profilbild_4_orig.jpg' | prepend: '/images/' | prepend: base_path }}"
-                    {% comment %} <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" /> {% endcomment %}
+                        "{{ author.avatar | default: 'profilbild_4_orig.jpg' | prepend: '/images/people/' | prepend: base_path }}"
+                    {% comment %} <img src="{{ author.avatar | prepend: '/images/people/' | prepend: base_path }}" alt="{{ author.name }}" /> {% endcomment %}
                     {% endif %}
                     alt="{{ author.name }}">
             </div>
