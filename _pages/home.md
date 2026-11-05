@@ -6,7 +6,7 @@ title: "Home"
 author_profile: true
 header:
   overlay_color: "#ffff"
-  overlay_image: "background-images/71917152.jpg"
+  overlay_image: "background/lab_background.jpg"
 redirect_from: 
   - /
   - /home.html
@@ -20,14 +20,14 @@ feature_row:
     url: "/research/genetics/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /icons/petri.png
+  - image_path: /icons/stat.png
     alt: "epidemiology"
     title: "Epidemiology"
     excerpt: "Register Based"
     url: "/research/epidemiology/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /icons/stat.png
+  - image_path: /icons/lab.png
     alt: "biomarkers"
     title: "Biomarkers"
     excerpt: "Cohort Based"
