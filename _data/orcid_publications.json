@@ -1,5 +1,21 @@
 [
   {
+    "title": "Spatio-temporal modelling of COVID-19 in Sweden",
+    "year": 2026,
+    "month": 11,
+    "day": null,
+    "type": "journal-article",
+    "journal": "Next Research",
+    "doi": "10.1016/j.nexres.2026.102652",
+    "url": "https://doi.org/10.1016/j.nexres.2026.102652",
+    "researchers": [
+      {
+        "name": "Bin Han",
+        "orcid": "0000-0001-7124-2056"
+      }
+    ]
+  },
+  {
     "title": "Auxin‐related regulation of barley floral organ fate: genetic and phenotypic insights from tweaky spike mutants",
     "year": 2026,
     "month": 11,
